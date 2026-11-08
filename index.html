@@ -1,58 +1,521 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="theme-color" content="#101827" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#101827">
   <title>Daily Intelligence Brief</title>
+
   <style>
-    :root { color-scheme: dark; --bg:#0b1220; --panel:#162236; --line:#304057; --text:#edf3fb; --muted:#a8b9ce; --accent:#8ad8cf; }
-    * { box-sizing:border-box; } body { margin:0; font-family:system-ui,-apple-system,Segoe UI,Arial,sans-serif; background:var(--bg); color:var(--text); line-height:1.6; }
-    .wrap { max-width:940px; margin:auto; padding:28px 20px 70px; } header { display:flex; justify-content:space-between; align-items:center; gap:15px; border-bottom:1px solid var(--line); padding-bottom:22px; }
-    .brand { font-weight:800; letter-spacing:.04em; } .tag { font-size:.8rem; color:var(--accent); text-transform:uppercase; letter-spacing:.12em; }
-    h1 { font-size:clamp(2.3rem,6vw,4.5rem); line-height:1.12; letter-spacing:-.04em; margin:20px 0 14px; } h2 { font-size:1.5rem; margin:0 0 14px; } h3 { margin:0 0 8px; } p { margin:0 0 15px; }
-    .muted { color:var(--muted); } .hero { padding:65px 0 42px; } .lead { font-size:1.14rem; max-width:680px; } .pill { display:inline-block; border:1px solid var(--line); border-radius:999px; padding:5px 12px; font-size:.8rem; color:var(--muted); }
-    .notice { padding:14px 18px; background:#26344a; border-left:3px solid var(--accent); border-radius:8px; margin:18px 0 30px; }
-    section { margin-top:38px; } .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); gap:16px; } .card { background:var(--panel); border:1px solid var(--line); border-radius:16px; padding:22px; } .card p:last-child { margin-bottom:0; }
-    .eyebrow { font-size:.76rem; color:var(--accent); letter-spacing:.1em; text-transform:uppercase; margin-bottom:9px; }
-    button { background:var(--accent); color:#09202a; border:0; border-radius:9px; padding:12px 18px; font-weight:700; cursor:pointer; font-size:1rem; } button:focus-visible { outline:3px solid white; outline-offset:3px; }
-    .secondary { background:transparent; border:1px solid var(--line); color:var(--text); } .controls { display:flex; flex-wrap:wrap; gap:10px; margin-top:20px; }
-    ol { padding-left:22px; } li { padding:5px 0; } footer { border-top:1px solid var(--line); margin-top:55px; padding-top:22px; font-size:.85rem; color:var(--muted); }
+    :root {
+      color-scheme: dark;
+      --bg: #0b1220;
+      --panel: #162236;
+      --line: #304057;
+      --text: #edf3fb;
+      --muted: #a8b9ce;
+      --accent: #8ad8cf;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, Segoe UI, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+    }
+
+    .wrap {
+      max-width: 940px;
+      margin: auto;
+      padding: 28px 20px 70px;
+    }
+
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 15px;
+      border-bottom: 1px solid var(--line);
+      padding-bottom: 22px;
+    }
+
+    .brand { font-weight: 800; letter-spacing: .04em; }
+
+    .tag, .eyebrow {
+      font-size: .8rem;
+      color: var(--accent);
+      text-transform: uppercase;
+      letter-spacing: .1em;
+    }
+
+    h1 {
+      font-size: clamp(2.3rem, 6vw, 4.5rem);
+      line-height: 1.12;
+      letter-spacing: -.04em;
+      margin: 20px 0 14px;
+    }
+
+    h2 { font-size: 1.5rem; margin: 0 0 14px; }
+    h3 { margin: 0 0 8px; }
+    p { margin: 0 0 15px; }
+
+    .muted { color: var(--muted); }
+    .hero { padding: 65px 0 42px; }
+    .lead { font-size: 1.14rem; max-width: 680px; }
+
+    .pill {
+      display: inline-block;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: 5px 12px;
+      font-size: .8rem;
+      color: var(--muted);
+    }
+
+    .notice {
+      padding: 14px 18px;
+      background: #26344a;
+      border-left: 3px solid var(--accent);
+      border-radius: 8px;
+      margin: 18px 0 30px;
+    }
+
+    section { margin-top: 38px; }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 16px;
+    }
+
+    .card {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      padding: 22px;
+    }
+
+    .card p:last-child { margin-bottom: 0; }
+
+    button {
+      background: var(--accent);
+      color: #09202a;
+      border: 0;
+      border-radius: 9px;
+      padding: 12px 18px;
+      font-weight: 700;
+      cursor: pointer;
+      font-size: 1rem;
+    }
+
+    button:focus-visible, select:focus-visible, a:focus-visible {
+      outline: 3px solid white;
+      outline-offset: 3px;
+    }
+
+    .secondary {
+      background: transparent;
+      border: 1px solid var(--line);
+      color: var(--text);
+    }
+
+    .controls {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 20px;
+    }
+
+    select {
+      background: var(--panel);
+      color: var(--text);
+      border: 1px solid var(--line);
+      border-radius: 9px;
+      padding: 12px;
+      font: inherit;
+      width: 100%;
+      max-width: 480px;
+    }
+
+    .news-list {
+      display: grid;
+      gap: 12px;
+      margin-top: 20px;
+    }
+
+    .news-card {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      padding: 18px 20px;
+    }
+
+    .news-card a {
+      color: var(--text);
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1.06rem;
+    }
+
+    .news-card a:hover {
+      color: var(--accent);
+      text-decoration: underline;
+    }
+
+    .news-meta {
+      color: var(--muted);
+      font-size: .84rem;
+      margin-top: 10px;
+    }
+
+    .section-heading {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    ol { padding-left: 22px; }
+    li { padding: 5px 0; }
+
+    footer {
+      border-top: 1px solid var(--line);
+      margin-top: 55px;
+      padding-top: 22px;
+      font-size: .85rem;
+      color: var(--muted);
+    }
+
+    @media (max-width: 600px) {
+      .hero { padding-top: 45px; }
+      header { align-items: flex-start; }
+    }
   </style>
 </head>
+
 <body>
   <div class="wrap">
-    <header><div class="brand">◈ DAILY INTELLIGENCE BRIEF</div><span class="pill">Preview edition</span></header>
+    <header>
+      <div class="brand">◈ DAILY INTELLIGENCE BRIEF</div>
+      <span class="pill">Live headlines</span>
+    </header>
+
     <main>
       <div class="hero">
         <div class="tag">Understand what matters</div>
         <h1>Stay curious.<br>Think independently.</h1>
-        <p class="lead muted">A concise daily briefing on emerging global trends, economics, technology, policy and research — with multiple perspectives and original sources.</p>
-        <div class="controls"><button id="listen">▶ Listen to introduction</button><button class="secondary" id="stop">■ Stop</button></div>
+
+        <p class="lead muted">
+          A concise daily briefing on emerging global trends,
+          economics, technology, policy and research —
+          with multiple perspectives and original sources.
+        </p>
+
+        <div class="controls">
+          <button id="listen">▶ Listen to introduction</button>
+          <button class="secondary" id="stop">■ Stop</button>
+        </div>
       </div>
-      <div class="notice"><strong>Demo content only.</strong> The stories below are examples, not current reporting. Daily news updates and research sources will be connected in later steps.</div>
-      <section aria-labelledby="trends"><h2 id="trends">Today's themes <span class="pill">Examples</span></h2>
+
+      <div class="notice">
+        <strong>Live news collection is active.</strong>
+        Headlines are gathered automatically from news feeds.
+        They are not yet independently fact-checked or
+        summarized by AI. The analysis sections below
+        remain illustrative.
+      </div>
+
+      <section aria-labelledby="news-heading">
+        <div class="section-heading">
+          <h2 id="news-heading">Latest collected headlines</h2>
+          <span class="pill" id="updated">Checking updates...</span>
+        </div>
+
+        <p class="muted">
+          Explore developments across nine sectors.
+          Select a sector to see its latest collected articles.
+        </p>
+
+        <label for="sector-select">Choose a sector</label>
+        <div class="controls">
+          <select id="sector-select" aria-label="Choose a sector">
+            <option value="">Loading sectors...</option>
+          </select>
+          <button class="secondary" id="refresh-news">
+            ↻ Refresh headlines
+          </button>
+        </div>
+
+        <p class="muted" id="news-status" role="status">
+          Loading latest headlines...
+        </p>
+
+        <div id="news-list" class="news-list"></div>
+      </section>
+
+      <section aria-labelledby="trends">
+        <h2 id="trends">
+          Themes worth exploring
+          <span class="pill">Examples</span>
+        </h2>
+
         <div class="grid">
-          <article class="card"><div class="eyebrow">Technology</div><h3>AI and the future of work</h3><p class="muted">How might AI change productivity, hiring and the skills businesses value?</p></article>
-          <article class="card"><div class="eyebrow">India · Policy</div><h3>MSME financing</h3><p class="muted">How could access to credit and policy priorities influence smaller businesses?</p></article>
-          <article class="card"><div class="eyebrow">Global economy</div><h3>Changing supply chains</h3><p class="muted">Why are companies rethinking where they manufacture and source goods?</p></article>
+          <article class="card">
+            <div class="eyebrow">Technology</div>
+            <h3>AI and the future of work</h3>
+            <p class="muted">
+              How might AI change productivity, hiring
+              and the skills businesses value?
+            </p>
+          </article>
+
+          <article class="card">
+            <div class="eyebrow">India · Policy</div>
+            <h3>MSME financing</h3>
+            <p class="muted">
+              How could access to credit and policy priorities
+              influence smaller businesses?
+            </p>
+          </article>
+
+          <article class="card">
+            <div class="eyebrow">Global economy</div>
+            <h3>Changing supply chains</h3>
+            <p class="muted">
+              Why are companies rethinking where they
+              manufacture and source goods?
+            </p>
+          </article>
         </div>
       </section>
-      <section aria-labelledby="perspectives"><h2 id="perspectives">Two perspectives, one question</h2><p class="muted">Example question: Will AI improve employment opportunities?</p>
-        <div class="grid"><article class="card"><div class="eyebrow">Perspective A</div><h3>Potential for new jobs</h3><p>Productivity gains could create new products, services and occupations.</p></article><article class="card"><div class="eyebrow">Perspective B</div><h3>Risk of displacement</h3><p>Some roles could change or disappear faster than workers can retrain.</p></article></div>
-        <p class="muted" style="margin-top:12px">Future editions will cite credible evidence for each perspective and explain what remains uncertain.</p>
+
+      <section aria-labelledby="perspectives">
+        <h2 id="perspectives">Two perspectives, one question</h2>
+
+        <p class="muted">
+          Example question: Will AI improve employment opportunities?
+        </p>
+
+        <div class="grid">
+          <article class="card">
+            <div class="eyebrow">Perspective A</div>
+            <h3>Potential for new jobs</h3>
+            <p>
+              Productivity gains could create new products,
+              services and occupations.
+            </p>
+          </article>
+
+          <article class="card">
+            <div class="eyebrow">Perspective B</div>
+            <h3>Risk of displacement</h3>
+            <p>
+              Some roles could change or disappear faster
+              than workers can retrain.
+            </p>
+          </article>
+        </div>
+
+        <p class="muted" style="margin-top:12px">
+          Future editions will cite credible evidence for each
+          perspective and explain what remains uncertain.
+        </p>
       </section>
-      <section aria-labelledby="words"><h2 id="words">Five concepts worth understanding</h2><div class="card"><ol><li><strong>Agentic AI:</strong> AI systems that can carry out multi-step tasks.</li><li><strong>Digital public infrastructure:</strong> Shared digital systems supporting services at scale.</li><li><strong>Supply-chain resilience:</strong> The ability to withstand sourcing and delivery disruptions.</li><li><strong>Energy transition:</strong> Changes in how energy is produced and used.</li><li><strong>De-dollarization:</strong> Efforts to reduce reliance on the US dollar in some transactions.</li></ol></div></section>
+
+      <section aria-labelledby="words">
+        <h2 id="words">Five concepts worth understanding</h2>
+
+        <div class="card">
+          <ol>
+            <li><strong>Agentic AI:</strong> AI systems that can carry out multi-step tasks.</li>
+            <li><strong>Digital public infrastructure:</strong> Shared digital systems supporting services at scale.</li>
+            <li><strong>Supply-chain resilience:</strong> The ability to withstand sourcing and delivery disruptions.</li>
+            <li><strong>Energy transition:</strong> Changes in how energy is produced and used.</li>
+            <li><strong>De-dollarization:</strong> Efforts to reduce reliance on the US dollar in some transactions.</li>
+          </ol>
+        </div>
+      </section>
     </main>
-    <footer>Daily Intelligence Brief · Initial website preview · No live news or automatic updates yet.</footer>
+
+    <footer>
+      Daily Intelligence Brief · Automatically collected headlines
+      with links to published sources. Research-backed daily
+      analysis is under development.
+    </footer>
   </div>
+
   <script>
-    const introduction = 'Welcome to the Daily Intelligence Brief. Your destination for clear, concise explanations of important global developments, emerging trends, and competing perspectives. This is a preview. Live briefings are coming soon.';
+    const introduction =
+      'Welcome to the Daily Intelligence Brief. ' +
+      'Your destination for clear, concise explanations ' +
+      'of important global developments, emerging trends, ' +
+      'and competing perspectives. You can now explore ' +
+      'the latest collected headlines across nine sectors.';
+
     document.getElementById('listen').addEventListener('click', () => {
-      if (!('speechSynthesis' in window)) { alert('Speech playback is not supported by this browser.'); return; }
-      speechSynthesis.cancel(); const utterance = new SpeechSynthesisUtterance(introduction); utterance.rate = 0.95; utterance.lang = 'en-IN'; speechSynthesis.speak(utterance);
+      if (!('speechSynthesis' in window)) {
+        alert('Speech playback is not supported by this browser.');
+        return;
+      }
+
+      speechSynthesis.cancel();
+      const utterance = new SpeechSynthesisUtterance(introduction);
+      utterance.rate = 0.95;
+      utterance.lang = 'en-IN';
+      speechSynthesis.speak(utterance);
     });
-    document.getElementById('stop').addEventListener('click', () => { if ('speechSynthesis' in window) speechSynthesis.cancel(); });
+
+    document.getElementById('stop').addEventListener('click', () => {
+      if ('speechSynthesis' in window) {
+        speechSynthesis.cancel();
+      }
+    });
+
+    const sectorSelect = document.getElementById('sector-select');
+    const newsList = document.getElementById('news-list');
+    const newsStatus = document.getElementById('news-status');
+    const updatedLabel = document.getElementById('updated');
+
+    let sectors = [];
+
+    function formatDate(value) {
+      if (!value) return 'Date unavailable';
+
+      const date = new Date(value);
+      if (Number.isNaN(date.getTime())) return 'Date unavailable';
+
+      return date.toLocaleString('en-IN', {
+        day: 'numeric',
+        month: 'short',
+        year: 'numeric',
+        timeZone: 'Asia/Kolkata'
+      });
+    }
+
+    function renderArticles() {
+      newsList.replaceChildren();
+
+      const selected = sectors.find(
+        item => item.sector === sectorSelect.value
+      );
+
+      if (!selected || !Array.isArray(selected.articles)) {
+        newsStatus.textContent = 'No articles available for this sector.';
+        return;
+      }
+
+      const articles = selected.articles.filter(
+        item => item && typeof item.title === 'string'
+      );
+
+      newsStatus.textContent =
+        articles.length + ' collected headlines · ' + selected.sector;
+
+      articles.forEach(article => {
+        const card = document.createElement('article');
+        card.className = 'news-card';
+
+        const link = document.createElement('a');
+        link.textContent = article.title;
+
+        let safeUrl = null;
+        try {
+          const url = new URL(article.url);
+          if (url.protocol === 'https:' || url.protocol === 'http:') {
+            safeUrl = url.href;
+          }
+        } catch (error) {
+          // Ignore invalid article links.
+        }
+
+        if (safeUrl) {
+          link.href = safeUrl;
+          link.target = '_blank';
+          link.rel = 'noopener noreferrer';
+        } else {
+          link.removeAttribute('href');
+        }
+
+        const meta = document.createElement('div');
+        meta.className = 'news-meta';
+
+        const source = article.source || 'Source unavailable';
+        meta.textContent = source + ' · ' + formatDate(article.published);
+
+        card.appendChild(link);
+        card.appendChild(meta);
+        newsList.appendChild(card);
+      });
+    }
+
+    async function loadNews() {
+      newsStatus.textContent = 'Loading latest headlines...';
+
+      try {
+        const response = await fetch(
+          './news.json?refresh=' + Date.now(),
+          { cache: 'no-store' }
+        );
+
+        if (!response.ok) {
+          throw new Error('HTTP ' + response.status);
+        }
+
+        const data = await response.json();
+
+        if (!Array.isArray(data.sectors)) {
+          throw new Error('Unexpected news file format');
+        }
+
+        const previousSelection = sectorSelect.value;
+        sectors = data.sectors.filter(
+          item => item && typeof item.sector === 'string'
+        );
+
+        sectorSelect.replaceChildren();
+
+        sectors.forEach(item => {
+          const option = document.createElement('option');
+          option.value = item.sector;
+          option.textContent = item.sector;
+          sectorSelect.appendChild(option);
+        });
+
+        if (sectors.some(item => item.sector === previousSelection)) {
+          sectorSelect.value = previousSelection;
+        }
+
+        updatedLabel.textContent =
+          'Updated ' + formatDate(data.updated_at);
+
+        if (sectors.length === 0) {
+          newsStatus.textContent = 'No sectors found in the news file.';
+          newsList.replaceChildren();
+          return;
+        }
+
+        renderArticles();
+
+      } catch (error) {
+        console.error('Unable to load news:', error);
+        newsStatus.textContent =
+          'Could not load headlines. Please try refreshing shortly.';
+        updatedLabel.textContent = 'News unavailable';
+        newsList.replaceChildren();
+      }
+    }
+
+    sectorSelect.addEventListener('change', renderArticles);
+
+    document.getElementById('refresh-news')
+      .addEventListener('click', loadNews);
+
+    loadNews();
   </script>
 </body>
 </html>
