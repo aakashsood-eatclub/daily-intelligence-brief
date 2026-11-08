@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#101827" />
+  <title>Daily Intelligence Brief</title>
+  <style>
+    :root { color-scheme: dark; --bg:#0b1220; --panel:#162236; --line:#304057; --text:#edf3fb; --muted:#a8b9ce; --accent:#8ad8cf; }
+    * { box-sizing:border-box; } body { margin:0; font-family:system-ui,-apple-system,Segoe UI,Arial,sans-serif; background:var(--bg); color:var(--text); line-height:1.6; }
+    .wrap { max-width:940px; margin:auto; padding:28px 20px 70px; } header { display:flex; justify-content:space-between; align-items:center; gap:15px; border-bottom:1px solid var(--line); padding-bottom:22px; }
+    .brand { font-weight:800; letter-spacing:.04em; } .tag { font-size:.8rem; color:var(--accent); text-transform:uppercase; letter-spacing:.12em; }
+    h1 { font-size:clamp(2.3rem,6vw,4.5rem); line-height:1.12; letter-spacing:-.04em; margin:20px 0 14px; } h2 { font-size:1.5rem; margin:0 0 14px; } h3 { margin:0 0 8px; } p { margin:0 0 15px; }
+    .muted { color:var(--muted); } .hero { padding:65px 0 42px; } .lead { font-size:1.14rem; max-width:680px; } .pill { display:inline-block; border:1px solid var(--line); border-radius:999px; padding:5px 12px; font-size:.8rem; color:var(--muted); }
+    .notice { padding:14px 18px; background:#26344a; border-left:3px solid var(--accent); border-radius:8px; margin:18px 0 30px; }
+    section { margin-top:38px; } .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); gap:16px; } .card { background:var(--panel); border:1px solid var(--line); border-radius:16px; padding:22px; } .card p:last-child { margin-bottom:0; }
+    .eyebrow { font-size:.76rem; color:var(--accent); letter-spacing:.1em; text-transform:uppercase; margin-bottom:9px; }
+    button { background:var(--accent); color:#09202a; border:0; border-radius:9px; padding:12px 18px; font-weight:700; cursor:pointer; font-size:1rem; } button:focus-visible { outline:3px solid white; outline-offset:3px; }
+    .secondary { background:transparent; border:1px solid var(--line); color:var(--text); } .controls { display:flex; flex-wrap:wrap; gap:10px; margin-top:20px; }
+    ol { padding-left:22px; } li { padding:5px 0; } footer { border-top:1px solid var(--line); margin-top:55px; padding-top:22px; font-size:.85rem; color:var(--muted); }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header><div class="brand">◈ DAILY INTELLIGENCE BRIEF</div><span class="pill">Preview edition</span></header>
+    <main>
+      <div class="hero">
+        <div class="tag">Understand what matters</div>
+        <h1>Stay curious.<br>Think independently.</h1>
+        <p class="lead muted">A concise daily briefing on emerging global trends, economics, technology, policy and research — with multiple perspectives and original sources.</p>
+        <div class="controls"><button id="listen">▶ Listen to introduction</button><button class="secondary" id="stop">■ Stop</button></div>
+      </div>
+      <div class="notice"><strong>Demo content only.</strong> The stories below are examples, not current reporting. Daily news updates and research sources will be connected in later steps.</div>
+      <section aria-labelledby="trends"><h2 id="trends">Today's themes <span class="pill">Examples</span></h2>
+        <div class="grid">
+          <article class="card"><div class="eyebrow">Technology</div><h3>AI and the future of work</h3><p class="muted">How might AI change productivity, hiring and the skills businesses value?</p></article>
+          <article class="card"><div class="eyebrow">India · Policy</div><h3>MSME financing</h3><p class="muted">How could access to credit and policy priorities influence smaller businesses?</p></article>
+          <article class="card"><div class="eyebrow">Global economy</div><h3>Changing supply chains</h3><p class="muted">Why are companies rethinking where they manufacture and source goods?</p></article>
+        </div>
+      </section>
+      <section aria-labelledby="perspectives"><h2 id="perspectives">Two perspectives, one question</h2><p class="muted">Example question: Will AI improve employment opportunities?</p>
+        <div class="grid"><article class="card"><div class="eyebrow">Perspective A</div><h3>Potential for new jobs</h3><p>Productivity gains could create new products, services and occupations.</p></article><article class="card"><div class="eyebrow">Perspective B</div><h3>Risk of displacement</h3><p>Some roles could change or disappear faster than workers can retrain.</p></article></div>
+        <p class="muted" style="margin-top:12px">Future editions will cite credible evidence for each perspective and explain what remains uncertain.</p>
+      </section>
+      <section aria-labelledby="words"><h2 id="words">Five concepts worth understanding</h2><div class="card"><ol><li><strong>Agentic AI:</strong> AI systems that can carry out multi-step tasks.</li><li><strong>Digital public infrastructure:</strong> Shared digital systems supporting services at scale.</li><li><strong>Supply-chain resilience:</strong> The ability to withstand sourcing and delivery disruptions.</li><li><strong>Energy transition:</strong> Changes in how energy is produced and used.</li><li><strong>De-dollarization:</strong> Efforts to reduce reliance on the US dollar in some transactions.</li></ol></div></section>
+    </main>
+    <footer>Daily Intelligence Brief · Initial website preview · No live news or automatic updates yet.</footer>
+  </div>
+  <script>
+    const introduction = 'Welcome to the Daily Intelligence Brief. Your destination for clear, concise explanations of important global developments, emerging trends, and competing perspectives. This is a preview. Live briefings are coming soon.';
+    document.getElementById('listen').addEventListener('click', () => {
+      if (!('speechSynthesis' in window)) { alert('Speech playback is not supported by this browser.'); return; }
+      speechSynthesis.cancel(); const utterance = new SpeechSynthesisUtterance(introduction); utterance.rate = 0.95; utterance.lang = 'en-IN'; speechSynthesis.speak(utterance);
+    });
+    document.getElementById('stop').addEventListener('click', () => { if ('speechSynthesis' in window) speechSynthesis.cancel(); });
+  </script>
+</body>
+</html>
