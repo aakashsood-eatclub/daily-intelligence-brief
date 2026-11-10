@@ -1,10 +1,28 @@
 {
-  "updated_at": "2026-11-09T02:05:28.325811+00:00",
+  "updated_at": "2026-11-10T01:59:00.369219+00:00",
   "note": "Headlines only; not AI-verified or independently fact-checked.",
   "sectors": [
     {
       "sector": "Indian economy & government policy",
       "articles": [
+        {
+          "title": "October retail inflation may have breached RBI's 6% upper limit: BS poll - Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNk9rZjRTcVRnaWpJcngtSUttUXhzc3V1dW5xdjlFUE8zdlBnd3ZMa29NSXMyZEVvNFhCanVlX2g1cE5McERTS0NIeU8yQkd0RWtVYnJWTVRidHN2QlBQZnlnNTIwRjJLdTRMcTlfSzlRVklQclhOQWRaYkw2dmRVdG9BQ1A4eTk1UXZ6UzIydFZZMGZ0bFhLbW1PQkljWjlXTFVLRjM5Y3lHTVJfNzhvZnk0eTVia21ZNnpqcmt5dUk4Y3FaMDlSYXg4cDNXZ3NVTmdV0gHYAUFVX3lxTFBBV0dSQTFVdDBQZDF6VmRBVVZiSFA4dnlEenBJcURha3VWTGs3OU5CNzEzNjc4UzJzMlBIRFc5WWtFSGg5Rng1eTVWbDZGLVgzanpWbTh1MS1fNktkYVZ5U3otckJQYllZTVF2ZGZTdHI5ZmpBdm9leFBKV3VhTlNlNWVQYWJKRks2cWtHRjhXdjZ2Wlk4T0Y5VUVvSnpXMXNTQ2Utc0hmWkpqaktUbU9Dd29TVk0yVjdoM3l2UWpSWVhoRmRyZnJReU1vWGNRSmx4ZjEyNTMwaw?oc=5",
+          "source": "Business Standard",
+          "published": "Mon, 09 Nov 2026 18:00:04 GMT"
+        },
+        {
+          "title": "New Cheque Book Rules From January 2027? RBI Clarifies Viral Claims - India Business Trade",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNTFwaGg4X2dIdl9rbWoyVXBaRWF5emJrX2E5OUk2NjJkSWJjazlpMmlkVHM3am80T3VBX2JyU2UwNS1MSkRvNk5qck9ldlVJaUFqa2k1T1VhZE13UzFpLXNIVnVacVdzV0Z1Ym9HdGwzd2d6SzdLaHQxcXlTLUJOREZMd0wzeVEyNXYyTTRhOXhva3EzUE9nalFyTUFpRlFLc1E?oc=5",
+          "source": "India Business Trade",
+          "published": "Mon, 09 Nov 2026 06:58:08 GMT"
+        },
+        {
+          "title": "RBI extends supersession of Abhyudaya Co-operative Bank Board for one more year - The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQVnBXU2E5Ul9KNGlnTjd0eEU0cVhuRnRrLXVnS2dpY3ppSkJmYy1xWl9PT29SYkdxQUQ1d29ERl83UnZaUVpxTEhTLVFMMl9DcE1SS2x1S3M5cXluc1pMVzBMVkF0ajRPd0VPd1lpN2Exa1FpS3V3UFU5aC1kSGxkakxLTTk1UEM2djhoQUZTbndQSmhyUTVydmJHdENheVItbm9iVTd0ek1mVUFURnpXazR5cVQwRGJTd2xNN0FHZlZvbVExdUJ3aktXMEk0TW1hTUpLVFNOaEpNeGJvZTlBV2xhNHcyd0pQVG00UmFhY1hMc290M0VKakFsY2h6d1nSAf8BQVVfeXFMUFZwV1NhOVJfSjRpZ043dHhFNHFYbkZ0ay11Z0tnaWN6aUpCZmMtcVpfT09vUmJHcUFENXdvREZfN1J2WlFacUxIUy1RTDJfQ3BNUktsdUtzOXF5bnNaTFcwTFZBdGo0T3dFT3dZaTdhMWtRaUt1d1BVOWgtZEhsZGpMS005NVBDNnY4aEFGU253UEpoclE1cnZiR3RDYXlSLW5vYlU3dHpNZlVBVEZ6V2s0eXFUMERiU3dsTTdBR2ZWb21RMXVCd2pLVzBJNE1tYU1KS1RTTmhKTXhib2U5QVdsYTR3MndKUFRtNFJhYWNYTHNvdDNFSmpBbGNoendZ?oc=5",
+          "source": "The Economic Times",
+          "published": "Mon, 09 Nov 2026 17:56:00 GMT"
+        },
         {
           "title": "Bond yields muddy the books as banks prepare for new accounting rules - The Economic Times",
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZGQ4TUUxeHpSM1Q3eTFBXzdFZm9MUS1hZldLZFd3bm5qVU1QWExnTkFQamt6TldwN2FQRm1rV1dSOXduYUVpelkxeVVRcmVLV2k0cmFORmoxYzZzYVd1RURZekk1Sk4tbGN6ekdQRVc3RDFrdlNfWWdBSl9NckVESnVxeTR2dzFZQTZKRS00M0dQUGV6NTBEd3hHVUNiSUJhSlJRcnJIV3dkeGQxQXFYMUtIaUE4WnhlZ1MtNTNlTUdJRTdZNHIyRk1wVzVBalNDQXdyaU82dWE2dVBNZkFV0gHyAUFVX3lxTE1CWkNRa2hpUTI2TUxEdzlRMklrbjN5Q0dvaElraVdPeV9hSFVlRlV2X0F6VGxjVm55N200WWpvaHJaUF9Gc0FxRExkZ1RlbjU1cjhXZE9nVksyTUl2ekY1eUtEVFRNaU5VSG9vbFJfMEVOcHV0ajA1STM2UC1ObjA4SzkxRzNiamdHRnh2TjQyQU5YUHJmX1VIZFlxN0hiT2docGx3aEtmalRvZjlUbk1HQnJwVlhjMGxETWdicFBheGNQNjlOZTZjLVpmMGJFa09UUHdKcEFEd2tsUndtVl9pMGVNT1Utay1rd2FEWUdKTFhn?oc=5",
@@ -12,28 +30,10 @@
           "published": "Mon, 09 Nov 2026 01:27:00 GMT"
         },
         {
-          "title": "Rupee, bond outlook in Samvat 2083 hinges on West Asia, inflation, flows - Business Standard",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSFVzeWNqT1pkVWNMSFY5UEpVNk5UazJ1S2k5czM5U2JVUk9QUWJuaFl6UEZHaExWSU9ZendWSG1XcW5mTmNReWhwd3ROZGJNZFA4dXUwM011b3U3dm1Ycm9RZk93bDhtZWFzeDdqbFdBdk9Ubmt1VG1odTQwNUNHQ0NmRjI2Y1JyZnRtM0I2ZElMb2NkSVgwcHhvSFVqeEJoZ0FnU2p1R1RiOHFpdDJidmN2dVk1MzJOQXNMbFU2eHJ2V1ZCbmdtSXgwOVR1UGJiSnfSAdcBQVVfeXFMTTFaZk83U3ZBSnlwbjlJMVpxSHdBMElmalVLSHczVkVEcG1sWkpRb0dRdUh5U0djWUVLZ1lhelRzR1I3TWlEM0dla3ladmxRX3pzS25mazQybkVnSzdGN1dOU2lQOGI2bzY3X2c0LThTelpFUmQ1YUVnUVYxYTQ2Tko4VEFqWGtkYy1Ja1pNa05nWXdRNm9sS1ZFOHdKY2ZSN2hyc0RMUHpOM0FDalZRNmkzZnVodHVtbTVmTm5hX3B1ekxDSERWRktwYVhRQjhQelFGeVJEMTA?oc=5",
+          "title": "CPSEs achieve 60% of FY27 capital expenditure target in April-October - Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYnZ6MXZwS2FUOWcxRnJQWTRQbGRmV1FxekRpSjQ0WWlrbzdkaVkzb1lWaUxWa0hUU3VWQUFwNGR5YUJ6MEVvaE9telB4NXRnQXVfT21xTUc0UFNNMUdXWG1EWVd4NENpc0ZMS2pfTTE0Q1E4Z09oOEE5T292czQ1NUIzd053ZUJqeDZtTnp5Y3lZdjNiZDA2blBseW14LU4wcTB6TnFUM29DSHVPTE9RTmo5QWRXYlppQ0otRWRYNlFNbmxhTWtyS0hDWW5WU0Ey0gHWAUFVX3lxTE9uLUtzT052cGphMVNuaERoVm5iY25VbUhoOUlDZ0JhZ2FCS1pQSTRzUm9CZW1uYlZaNGFKb1U5RE0wVngwdEdyNUtRaWRibE1ENWo3S3p6TTUxMnlqTmxVNGs5TFRsN1RJY3N6QTY2bnVRc1FHeThfamdWczVwN3luZ2taREVvMnJzQUcwQTQyRl9Od25UNDViRGVJbVkzand5dzZWQlZqM3FfdVROUHowdVhFM25DN0Z3SElHSEpJT2xTX3djX2x3X3B6dzJ3d05JMXIzQUE?oc=5",
           "source": "Business Standard",
-          "published": "Sun, 08 Nov 2026 10:53:50 GMT"
-        },
-        {
-          "title": "Why Budget 2021 should make space for technology & robotics adoption - ET Government",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOY1VoaWNpVDNvdTQybC1WTTVrT0d5aVFGbG90S2tQSjlmTU9uclZuTGg5TGx1ZEx1blBiNmhCVTRwTktTVlN4Ti14c1J1ZENjZFN6V0VveVAtMXZRQW9PMTkzTXFheW1MZGVER3p3Nk5seEVXbGhSMXMzUXVPcU9IaTNUVUxHeER2c1dVLVEyazVfX3hzZjZ4aTFoOGtNaEtiOFk4dFF4OUNneWNQVFNtNVZ5dTFWOEdPNVJhTHVqTVFpR2d6bENqa2s0VGo0d003WHY0d2xSRUMxcDTSAdYBQVVfeXFMTXl5eVN4ZWNyQ0pUTDM1Vm15MGFWdFl4dTVDYzh1dGRJaS1LekpoeU5GUnBjME5FbnN5UlJnWDhvcUpLUVc3WE96OVlBRkx5bFZHLXF5Q2hLVS1nb3NfTTNxbVdySDFyVGJacHVsZHJnem5hVExEdi1ENXphTC1RVG14OGVzOGxiTF9ZRTRsMTVYWmFrZUl3OVdEZGZZdGhfWjJ4aXBRcUEtVVBld1o3RzRiZHY2eWdXUmVCcERpR3JLaVhwTmZ4Um5NNjBXTVRnQ1k0U01Rdw?oc=5",
-          "source": "ET Government",
-          "published": "Sun, 08 Nov 2026 03:00:47 GMT"
-        },
-        {
-          "title": "India to launch new cheque book rules from January 1, 2027? RBI clarifies - The Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbUlQTTBoajhBT3NDcHJlc09wUEQyS1YtZ3BRV0FtMTMwT3BPZzE1ZmVTTWowWlBsaUxKY0l6V0VkN3pYR0d1QThaeE1wRVQwTV9YNkg5R2RWeXJBX2h4WDZaTEtKSVhRN21nWWtRemg2bDNRLVYxdTMyNTZzZEhQNGdESEpMUzNCUFMzV29XRFgybHRnVlBPbUpFR2VkOTNobVd2OFNWZ2k4c3Mycm16XzM2QllfV2hDOERTcktBSGptVzlleHVET2xUM1R4cTA1R1JsN2dtWlZpTEVNMEHSAeMBQVVfeXFMUHRvWENLaHZFRmFpYjlSUWZkWWJwOE9Rdnp1aFgtNWVpc0J4R0hUWjY2VVFEMml3QXlzZ00xeFZEZ2JmVElRVjdEazRwUEpQdWczY3dsS05ObHpiWkhfY29nRzZtYmJhUTV0VTRQUElfVXhJNHlDSEcyZENEaHFXR0lSeU9PdHE2XzVLa0VZSXMwN3Bxb2ZxTURzVmVWQVVUZWlMMEkwZDV5YVY5QnphUGk3b1hRY0pvMk5ldnJXMG1KOU9pdGg4V0U0cFd6TWUwakxSR0ctTU11WERMeXpzTTlVWEk?oc=5",
-          "source": "The Economic Times",
-          "published": "Sun, 08 Nov 2026 06:15:00 GMT"
-        },
-        {
-          "title": "Assam Lags in Electric Vehicle Adoption; Carmakers Seek Lucrative Policy, Adequate Infrastructure - guwahati Plus News",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUzNsZDhIa3VzMTZaZ0ROeXZybWxoeDNyU0pnbTR3Mk1lNU5Kd0FHQjdXZGxPeTYtVjZqU19NeHBONzQ4QW0ySm92M1JNeWEwWTZ2Y0ctXzFZRHI0aE1CcmV2RlZSS1pzalp0UlZEb1JkLTh6SEtCcmNvNEt0MzFMSDI2VTR1Ny1VUVEweE9KWFFrczFEcURhMW5pcEs1aTM1ci13ZUt5ZUpHRW9OWEhSLVR0Ry1yZ0ZIVzNjRHBFRjJBR0o2bXY1T1I0TlNucGxBVlBKNDBB?oc=5",
-          "source": "guwahati Plus News",
-          "published": "Sat, 07 Nov 2026 09:41:19 GMT"
+          "published": "Mon, 09 Nov 2026 13:03:14 GMT"
         }
       ]
     },
@@ -41,34 +41,34 @@
       "sector": "Global economy & geopolitics",
       "articles": [
         {
-          "title": "‘Geopolitical fragmentation is an advantage for us’, Standard Chartered CEO says - South China Morning Post",
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNd2RCSk1rbXBqOWlRQkY1cU82SFJvaDY1M0FXM05RQ2lIU0NQY1I2VVVDaUVlamJmU1BxSmtoUHRMd0tLWHllUkRzeVlfYnVVWDFpY1NIUG5YU042cUdxMXRRdllQOGc2YWUzUFpCdjlGM016WlBXaGJVMDlabThMYWhpY3BER004djBQa0FUcGMzQU5NNVZLWXpybzRFSFhib2gtOTZramNoSlNOWXotNnBBWDJCUXFBczlRVWZrMy1MZmxSbV9WTnk1WDJuNXpneEJWcFVIN2dwMW1zcXBaei0xSWItdk4yWENvYmhNWFVHT3VsNVp3eHotck8?oc=5",
-          "source": "South China Morning Post",
-          "published": "Mon, 09 Nov 2026 00:00:41 GMT"
+          "title": "Geopolitical lock-out tops life sciences economic risks: Willis - Global Reinsurance",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQM1FoTEItX3I3NWt3RWFCZHBZOHNNOG5idlNNMk8wX2UydlJlMkw3RG1HcUVWTUZqM0EzcS11ZXpCSGFXWHVGQjJhWGlRSlliSHR4Tk9VQmV1WndmQkpKS0xmb084SGVhczJMeE0wa21BUnNCZXlPRV9KNURxcnZSZlVOZzBwT0RBUUlPZXBuWUY5Z182NWdDM09zRDVSOVh3Wmg3WW11czhBb1RqcXRTUlJYQUYxYWEz?oc=5",
+          "source": "Global Reinsurance",
+          "published": "Mon, 09 Nov 2026 11:51:36 GMT"
         },
         {
-          "title": "The sea’s grip on the global economy: The chokepoints that can bring world trade to its knees - EL PAÍS English",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQa25DWFdia3hYalNfSkRYek5pZ09uYzV3dmIzSnViMDZqQ2RqSVMtOWNycmYxSmNzTFIwZHJMYWUwTllsUmQ2MlhJLTBCWGRpcGdBcWRsZ2hNbkxoaG9CTVhkVkZtNmJZUV9PQU1HZkVobUlpUFhkeTJHZlNRSWkwTHNNS2FxYVV0ODN2bzFXMFp0OG4yTlpXNW4zRERXZHRYazFscFFNZm0yWm0zLWQ0OVlVRWxlMS05ZjJudmx1Tjk5SmRQRHVid1V4WGQ2TTlYb0hWLWZMVXV5cHNBM1R5cGlSY2xzeGpGNHgw0gH_AUFVX3lxTE5qNzlqa1lEOGVkWkd1TDVQb0x2TlpJdy1oNVlTUDNYLXhESW9JSTJLVkV3TG1fdHhLLVZZLVhlWGdMUXdaMWFuV0ZjVUNfWmhPRHNsR2dlS29IMDREc1RTOXRBdC1JRHZmeV9jZkt5akk5S2huSGs1ZDBscUNIckF4elZuTC1yOWtUSFQtcXZRdlpzbWIzR1JRWkVFY2hFSU8yUXZjai1QYm5GOWFvV3pnWGFPRVRDZHViU1lpTTQyQ2ZGNUVTNmZQbnJqczExTVZpOVJJeUU1YlBtME42ekdGeWR0Rm12Z0UtZTU3dl9ROXN2d2VLSWxlTnNndFhBVQ?oc=5",
-          "source": "EL PAÍS English",
-          "published": "Sun, 08 Nov 2026 04:00:00 GMT"
+          "title": "World economy: AI development brings growing macroeconomic and financial risks - Credendo",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOV1dmbGYyejg0RElUbEFrZnVHYkpheENRVkxPYnVHbFpjZ2ZfMmFiSEg3Q0xmRF9jR0VjVHY5MXdEeF9MZTl0bWZpSWZuekNCSVVGbUg3bFBnd0JHLWphV0xWMEZ2VU1GaWlPako5Wm1RU2xEb3FleGswWlItcTNWTFY4dzNyUDc1Tmw0aXphQVV2NlBrZHZPNzJORk9hS2VSa3dCcUZMdGRQWFNISUVYZkp1SFlWUQ?oc=5",
+          "source": "Credendo",
+          "published": "Mon, 09 Nov 2026 15:27:12 GMT"
         },
         {
-          "title": "Global Economic Governance in a Changing World Order - Brookings",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR183OTc4SGdOM25PN0thOFozS0dkT2twdkF1U21TTEZ0T3FKbnpJZUtLMFVsSmROalpqYmF2R2tLY3VMS2NxTnpnaVVvZzhWSnZRNVc0RXNOTnVZVThSX01mVGNGdTdGZ3RpcW9ELWJzcW9NR1Z5d3gzU0pBdExwMFJiVHdfd0xyWG1hblpn?oc=5",
-          "source": "Brookings",
-          "published": "Sat, 07 Nov 2026 16:22:05 GMT"
+          "title": "Trade shocks and tech shifts: DBS on why Asia matters to global growth - FoodNavigator.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxON3pxeXNxUWpLVkJXZU1BVEhHQ3JoZk1JaU1nSURDNV8zeHBNS3VYVzN0SGRNV0xyblNtV25MNlRhS0E5Rlk4dW5TT1NoR0xISHJVNUpiWkgzSTR6RWVTUW5rVDZuWW1GYVM5eTgxQUx0TW9meG0zcmNqTmlyUmlITWtGSktkVnM1VVg1TTRqU0lLb0V2QjJRVmNJTXNJTDhQTW1MRmhFbVV3S29jY2R4OVRUQVZyOTdPVHBF?oc=5",
+          "source": "FoodNavigator.com",
+          "published": "Mon, 09 Nov 2026 13:29:09 GMT"
         },
         {
-          "title": "Charting the global economy: Job growth in US tops all forecasts - The Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWmw1LXBza2VaeUVuZGtkNzF4a1ctbUstSmltYmJuaUxWZW9wR2RjblFPMXRhYWpONmR1cURrZjNrV280UjhXT2RDdEZXR09mSWhxTnYzS0k3OHl4WUpTUW5aQ2NydDc2ODEzZl9WbUxydVQwTzZFVG1CemZNMnVYOXNJYmFVczFRV2pzOG9yNUptLTRYbnlJdV9ieVRxWGlCSXc3VEc4c0V4M0FqSERDOHhEZFQ2ZXVZWDYxQ1oyVmxPUkVQYjVlRzV4NURoMVdxeXl6aVJzd09VejZyS0s0MzFHR0nSAeoBQVVfeXFMTWd4ajdKR1ZlQXV2Yk50bzc1NHhUNXczaTc5V1BydGVEeThBdElXWGxtcXdoTm1yOEV6VE14WkduVjQ3bWdvOGUzVThMQ2FpMk5TMXQydVhBX2taWDRNN2FTR3lOZjRCYXRhUW5VWVc1Zy14SjBrOVlOaWZPN0ZOVmpPb2NkaDBvQ1JJU2l2VjRaWURra25pSk02bFV5SVVMbmcxWU1tVEJXRHFnalZScTctRUtFWk80bllqOWFTdFJjeWJta1otTlV6VlU3MTAyOTZKUEhnOWNOZmFidzJEVFhNWkdSaVY3T3BR?oc=5",
-          "source": "The Economic Times",
-          "published": "Sun, 08 Nov 2026 05:09:16 GMT"
+          "title": "Asia at the Crossroads of Growth: Turning Economic Momentum into Shared Prosperity - India Narrative",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTGpCRW9UbDRWdjE0OFNub2hZNXZha2xCT3ZwRzNnQXJMdE1fQ29vU0ZxbXVCZE1TSmRaRHpMV2pPa2EwMlRXLUlHdWdaYkRJY3NNbWRVcGZaM2doYlRmcy1OVURRc2lhU2Q5WVRiSkRWbjhPcmtnMmV1dlZmVHVjcUF3UnUzS09HTG04VTBWdEI4dXFQWnQtR1hmalhXcWhxOUdTRHlwcElPQ0k4aFlhOElIWHlBX21wTzJxZ25R?oc=5",
+          "source": "India Narrative",
+          "published": "Tue, 10 Nov 2026 00:30:00 GMT"
         },
         {
-          "title": "AU-EU Scaling Up Investments and Economic Partnerships Guided by Geopolitical Challenges - Modern Diplomacy",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQnhTYWVFSlY0VUtCYllsNWs2WER6UFBMMU0xVlgzMUc1WTFoTlVCUzFVUWlMM3p3bWRUWEkxZ3RZcEZtckdxbDFQbVJ3NlFrWmNhaXdzcFZHWGctZlZRV0I4VXpNQ0x4ZnI0VDg0SWozWnU4d0tIVjhDT29rVlNKZUxsNzc0TWJKMG9Yc0tETExXZG1mcVVFaERNWEJjMFc1RVIzUHExVnN3akk2czhDMHdVdFlnWmdjd1NFM2hKMEdVOHZ2Unc?oc=5",
-          "source": "Modern Diplomacy",
-          "published": "Sun, 08 Nov 2026 03:00:04 GMT"
+          "title": "IMF Executive Board Concludes 2026 Article IV Consultation with Denmark - Disruption Banking",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUVB2U1FqamZoRk5VTWJ1Q0h6OXpUa3lTVHpRMzE4S3N0RDRGRVJDTE5MdHdHczl4WW9Yd3Fva1pWZXFPX3BQaXpYeWhNZ1pxUk5KanNCLUM1a3MwaEhVd0xLWlh2Ui1pMFJoTmdrYTNHV3M3TVdlLU9ZUVZjcnlnVFZiSXREODNIQVp0eTl3SzUweUJWUFN6bWlQTHQ5U19NVTNUWWxTXy1naWkyUGp3YzU2c1hhc0JZ?oc=5",
+          "source": "Disruption Banking",
+          "published": "Mon, 09 Nov 2026 14:29:45 GMT"
         }
       ]
     },
@@ -76,34 +76,34 @@
       "sector": "Artificial intelligence & technology",
       "articles": [
         {
-          "title": "Semiconductor and AI Revolution - pib.gov.in",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2RzJwZ2V0b0lyVFc2UnNHUmdjLTJEVmFTNllJVGQwNHM2X3pHMUhjME8zX1FzZU5UV0hrY1lSVndib2YzVkxpVU54RjhKN25NaTdyNjBaYS1IbDU5cmFIZk1PZm9XejNTVjFtbWpDemZqUXp1MFl3?oc=5",
-          "source": "pib.gov.in",
-          "published": "Sun, 08 Nov 2026 15:04:27 GMT"
+          "title": "Cisco research: Trust, not technology, is now the speed limit on enterprise AI - SiliconANGLE",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR2tfaTFkTHNnNzVnRGVEWjZ1aTFaV3JSYU5oVkRiUG1FeHZqZzNqd2o4SkxUMkxfSVNuejdpWVV4SVZNalBRc25NY3pEaTZqVmRfanB5RURvVmcxcDdqNkJKc2RVV19RR09sdFBHZ1cybHp1ZTUxOVFGdGk4N3B2TDhYRTdMTzJCWVVWSmhQdmI4ZWpyaDdLSFMybHFiQ3IwWFk5aVJST1ZSSG5aTEtfQ1Vn?oc=5",
+          "source": "SiliconANGLE",
+          "published": "Mon, 09 Nov 2026 20:00:00 GMT"
         },
         {
-          "title": "TECH GLOW 2026 Celebrates Technology, Innovation, AI, Research and Diwali at IEM Kolkata - TheWire.in",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTE1ONGF3d2pTd2VaYVh3bTZxVGp6X0pqSUJjRXdsMzZfMUstd3BBcTdudVA4SDZhLUJLMmRXRHdQcUFNMWJOc1Q4MHBkdGFSWkd3R3EtV0E1MnZ2M3VsNHN4bnFTR3Z5dDRjd3JIMXQ5UDVyYS1tbk5oXzdVakJ4Z1lELVlHVUxON2ZYWGRFNjB6Wm1mQ3NzUS1lVG8tbkFDQXozRy02MUp3bkdYRC1zYmxJMEJGck5DUDVXR2w0dUFrUdIBxwFBVV95cUxQR09JMF9KTXRXWG9iNC1kRUYwWGtETHEyNTNnWlZSazY2QjNIQzNTM2FOdkxUeHJwc0ppN2puTlg2X1AweTV0em1oN0h5VlpfRDI2c3VpT0RSYXRXMzZILVltRGZKWVl1ZkFhVktCRXo3Zkl5LXdQQy1JeTZUdmpGZVd6UjZxNmNFbm5KUzZBcTJ3NE9PVUdSemxkS0ZkWXpSR0FhRGxqWV85V1pHVVA0Vk5mOWZvQ3YyNU5EbUtudXZzWVlxdDNn?oc=5",
-          "source": "TheWire.in",
-          "published": "Sat, 07 Nov 2026 10:33:01 GMT"
+          "title": "AI News: Artificial Intelligence Trends And Top AI Stocks To Watch - Investor's Business Daily",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMTVTWnJlZkpsVU9ZV0g1WHdKQVBKOFFvcUpPeTJuMW9iT2FTMWI1N2hMYk1ud1cwQlBEVlJObDFVTnpoNnBhejJrZnVFelQ5V3NNRklrM2RlaHUtc2NsbmxWcVV1MWVzd082RUdTYmtJVW9MUmJRTG5sV1dJN3JCd1JNX2Z4VnZtV3VpbzdrNXdKNTVSc3FB?oc=5",
+          "source": "Investor's Business Daily",
+          "published": "Mon, 09 Nov 2026 18:14:00 GMT"
         },
         {
-          "title": "The American Pakistan Foundation (APF) Announces 2026 Rising Stars in Artificial Intelligence - The Detroit News",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMGFWTmNMaUVTRlFfR3hoeHVoWG9IVjBhYVY3TGZINDgwQWVZcGVTLVljNzNWZkRuVU52cU9NSUozZzZIOXVpMHdrRzluMUQ3UXMzblR6UDRwLUJQWXBqZ2hqZGhhbzdWRnhCaVBPNHZUVnZGcXZ4MHE2VTVrT3AtZV8wOGt3WkZFNjgyeDZqT3hqelQwUXJZVmQ2MzRHM0RPazF5NWpicjBaZlpRNG5vX29LaFhWSUJ5S0s2R0dVWFBaSVJwNkJ2eHFFTGUtNU5tcklaYldId0hkczk4M3Babw?oc=5",
-          "source": "The Detroit News",
-          "published": "Sun, 08 Nov 2026 21:37:59 GMT"
+          "title": "Colorado, Wyoming researchers use AI to predict destructive hailstorms earlier - Denver7",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYmljR25VZndSSWg4cDZjS0xYUDktckotaEpTX09tWmVrNk1VakV2Rk1WUzRmTjhaRGNzRGRnekt2cjB0WkFNWk1iaENNRHVENHcxLTVKcHZUX3ktSDJsZkdTTndoRjFIUFVLbTlvanQ0WFYyQ2FiSXYtcy0zanlfUHNNZm9KYjV0YlVHWlpWWGdmNko4ZkRNSGplS2FkTFQ4aFB2cEYzSWlnZWVxT2M5RkVXWWJYazZNQWVZRmRLSkpQX3ktdmgxV0Q3TWlLZnJuZXdqRjNLWm11dERNc05WaDJXWURnclNx?oc=5",
+          "source": "Denver7",
+          "published": "Tue, 10 Nov 2026 01:23:34 GMT"
         },
         {
-          "title": "Editorial: Buck’s plan for AI guardrails sets right tone - Marin Independent Journal",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaDRDX3ZjZFNreUNZN205ZFJLWlVWWVpha1JQRV9JZDJKSTRDcjRsZV91MjBqM3pIel9kRTV4aXE4YWVfM2JUdThOdFBJekZYakdKNkd3WFJHenFDME8zVVhJRDFSM2NtTDliNEdva1lDUWdlcG8zNmp4dlUwcDBMcEhOSTE1RFpUdHNuNElmYlBfYXZS?oc=5",
-          "source": "Marin Independent Journal",
-          "published": "Sat, 07 Nov 2026 20:59:28 GMT"
+          "title": "Taiwan's Industrial Technology Research Institute Brings AI to Indigenous Communities, Turning Millet Wine and Mountain Tea into Green Gold - BigGo Finance",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54aHpOX2cxckNZMjFMSjV5RWpTSUZZa2FEbFR2OHZxS1dHU2dUOUFmaVZYTlVfNG83VTgzcEtMbXZrVi0zTWhFem9YMlIwa0VlOWZNM3JwUEZod3NKSk84dGVsLXhCZEh4djE0QnNqMHZkYVQyRFE?oc=5",
+          "source": "BigGo Finance",
+          "published": "Mon, 09 Nov 2026 16:05:00 GMT"
         },
         {
-          "title": "Environmental groups embrace AI, even as they warn of data center impacts - The Express Tribune",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNelRxODRrWFM3RWJvdkMzQV9kSVdqTFJCT2lQSGdpbk1YYV80bjNRNXJHMHljNEtINXQ2b0ZqSlBOSi15eVFzVFVlV29GWXFXMHhwYmh2SWN6c0loUG1reTRlVnU3TGZONGZRcm5HenJseWdRbS1KdHNzd1dKS3dFYTlaV1lyNDNEUnpLczJPTDkxV253RGJneDBvNmdlSmFZbVBnWUx5SGw5VzNzRmfSAbYBQVVfeXFMTjl1c0E4YW5tSnNVZk91MjlPQjNtZk9pM2NGY2FxN0o0QjN0cDFDaUVZT2d5d1c2Z0hGNmNtTWROc3Utc0NpT0tBd2hpazJaM2Z3N1Z2ZmpISE1Fcm1kNTh6UF92bHFpUnZRd1NMRFVVRUY3UDhUN09sUG5OcFZNRnVQQS01ZUFJOUxUaGpDRkEtUXJmVG1YUk9mckY2bVcta2xiVThtdUpoRzdkclBmMTZVcmhXMUE?oc=5",
-          "source": "The Express Tribune",
-          "published": "Sat, 07 Nov 2026 18:03:26 GMT"
+          "title": "What it would take for AI to improve participant outcomes - Pensions & Investments",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVU8wTURETTlLSXZQVlpWT2JlU1hMN1lUTG05VHc0LTBTNW5GLXlIdzI3OGZLcW1KNjVtSTFkQnpISnhZaUdrRFJMVHc2b2s0eTdTUXhXUFRKRWR1Tld6OWV3TUI4UlJzWUNmMnJmNmx1T3JuYUd5a25wdkIyZmNBeXZxT0FkN3pCbVI2U1E1cktyWnVVQVBpdk5hOGU3cC1ZTEx2SWprZUs0UTZRUko5WEh5WUJYT3pLUTBaN0tNdEdqMjhKSmNRMUJxeVU5enNuYzRidw?oc=5",
+          "source": "Pensions & Investments",
+          "published": "Mon, 09 Nov 2026 13:00:00 GMT"
         }
       ]
     },
@@ -111,34 +111,34 @@
       "sector": "Business & startups",
       "articles": [
         {
+          "title": "Funding, Mentors and Networks for MedTech Founders: See It First-Hand on the MedTech World X MDIA Tour - MedTech World",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWXJTaEl5N3ZmQkhkWGtsVG1MeWRDdjMzSDBoeDdVSGpZLW5UTjdNYUItTTBkVk5ZYUF5ZnU4LUN5eDJoOEF5eFFaYkd4SFp5aXBaczJSSnM4eEJJekxVVGY5UjFYUk8ydGNFei1lWUlEQVJPellxQXBhaWxJQi04c3JFX2Vha2I3WC1QMVZBb1BHaVljQzN3YkpRTmFiTmdYcTdGMWpmRTE3em9VUjBiUU9QSzltUXVzVzBHZkdsUFpQRzMyVjJoZQ?oc=5",
+          "source": "MedTech World",
+          "published": "Mon, 09 Nov 2026 21:04:03 GMT"
+        },
+        {
+          "title": "Qatar Offers African Startups Up to $5.5 Million in Funding to Expand Operations - Tech In Africa",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYzMyQTdqcWRjZVdsdG92d1ZnNGcwMlgtTk5aUWQwWG5yZmJIN3dyeVdEaDAwY2F1NzEyNmg2UDl1U1FFaGpnLUZFWUkzNUd6b19uVGdRcE9ZWmZaempQNUNEMjRuMkRJclZYZmoyR0NQRmp2UjdUU0JqLVlxT2J2SFdXcWlMSmpReHNYR0pQOUVyZGVfdE9jRGtkQnoza3Z3b21sU29GaXN4LUlFZlE?oc=5",
+          "source": "Tech In Africa",
+          "published": "Mon, 09 Nov 2026 16:56:18 GMT"
+        },
+        {
+          "title": "From capital to companies: How Calgary's venture ecosystem is growing - Calgary Economic Development",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcDFCOVc1T21jc2laUTFobm5GZGE5cW55cUNtTjJJWm5zbTYyUG9RdkkwSWxPV3JTQUxSZnVKZFM5RjRFeGg5WEQ2V3RLY2N0M1Q0ZlExc3dfMjhjQS1uWU15NWZ4dmFNa2V6dkdOZFA0dHlXMDRvMVhORVVDMzRSWkpKSjFxR1hEcVpKbW5IMDRZVERBV2NCRHM1V1JkdnprMnNVbDMxejdiZE5fa0VYTnZPUFdfOU0?oc=5",
+          "source": "Calgary Economic Development",
+          "published": "Mon, 09 Nov 2026 13:00:00 GMT"
+        },
+        {
+          "title": "DOST chief cites biz support via Startup Grant Fund Program By Cristina Arayata MANILA – Department of Science and Technology (DOST) Secretary Renato Solidum Jr. on Monday touted the agency's support to Filipino startups via the Startup Grant Fund (S - Facebook",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMGlydHFXaUk3R3lJQ0hibEQydUljTDA5UFNmNWw3VGIwbmpEOXZ2am13SXpDRHYweHpWZnN0ZjNjVFNRRGtUajVZb2hVMVRRNnI2eVh6VXlrOUpQTGhaaTJERFRjUXRKTVZoVGFwMndXc1hYRDJ6ZW1oVVdvYjBQQk1henNhRUpnRktxbmt2bXFDWVUxYk5iSmRhZkpJUkJncm91TXlicndicG5vVjU3cmd2WlViXzRicDcta0ZWSmYtM20xZVhvYTVoOExuWkM1ZGNZNQ?oc=5",
+          "source": "Facebook",
+          "published": "Mon, 09 Nov 2026 14:30:42 GMT"
+        },
+        {
           "title": "CWU tapped for business incubator program, research funding - Tri-Cities Area Journal of Business",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONVIzTGxqaE5RWmtlR0hMT09laWxaTFltS2tkX1NJaXR3OHNIT09NWWpodGxnZXY3bk5nUmdBR0h6UC1tQWdhd0EzbjNqMGgwVTRBYmJWUXdodGwwdU1penRIYzR5Ym5vUjl1MkFVWEhTb1dEQ1Q3S3pOemYyS0UyVlFnYXNZcTBnX0NlV2dCcVdqRWJOVW91V1FUTjRIM1I4V3dtUG9PMm8?oc=5",
           "source": "Tri-Cities Area Journal of Business",
           "published": "Mon, 09 Nov 2026 02:00:00 GMT"
-        },
-        {
-          "title": "Benha University launches Startups Summit 2026 with more than $41,470 in funding for innovators - jawlah.co",
-          "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE82REQ5SVhUSkQzTDZqOUF6MjI2bDMzN1QxeFNjaTRnTUxHT1R5Z2FCRmNXczlYVEowTHFHQ3dUdw?oc=5",
-          "source": "jawlah.co",
-          "published": "Sun, 08 Nov 2026 14:41:18 GMT"
-        },
-        {
-          "title": "Benha University Launches 2026 Startup Summit With USD 41.47K in Funding Support - waya.media",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV3lzb0N1VllFcVRRWTcxdzVRTG1mcTUwNzRsSmx1V256MjhEbVdhYkJJT3pmV2drQkdLVlNaLTBGOUE1N1AwbXJoS0g5NFBNa1V2YmZsRks4VnFsdkFvRWJhZGM4UkcwaU80aTljYjlOZEN4OElVTEJBQnVQdzZLR1ZRQ1JEX3gzUXgzWmZSdmI1LUJBRmhGMjVGQV9QcFgyaXc?oc=5",
-          "source": "waya.media",
-          "published": "Sun, 08 Nov 2026 09:39:37 GMT"
-        },
-        {
-          "title": "Busan Deep-Tech Startup Newrizon Named Korea Credit Guarantee Fund Innovation Icon - Seoul Economic Daily",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSEJXZXZSVUhlUERPNWNzbUw5SWpDTDh0R2RBci1rbWpNMWNYcWNKVW9vMFl5MllFT2YtQWlzRXNHdkNxNUprekpkVHJtNG5INFFDSDRnZy1NemJmZkMxa192UGRMQ2lVdHpaRjQ1THFDSUp1VnFtOTFUTkFTLXJTUFYwV1VFeU9lMDdFam44VVNYN0cyOGp4Sw?oc=5",
-          "source": "Seoul Economic Daily",
-          "published": "Sun, 08 Nov 2026 23:31:07 GMT"
-        },
-        {
-          "title": "'Bunicon' startup Newrizon becomes first Busan company selected as a KODIT Innovation Icon - 파이낸셜뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE51Z3FxTXh5MHRzMW1FeUc5ZVE3eE5pRlpLc3c4RlBkSHVKVVRGdUJiaEdOSnBnRnIwWUxZYWV2Rjd5akFfUzlyM09GVnA4RmRrNFJxcVZOR0U?oc=5",
-          "source": "파이낸셜뉴스",
-          "published": "Mon, 09 Nov 2026 01:04:10 GMT"
         }
       ]
     },
@@ -146,34 +146,34 @@
       "sector": "Manufacturing & MSMEs",
       "articles": [
         {
+          "title": "Small and Medium Enterprises Growth Fund - pib.gov.in",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfY25fVmVEbHZwZjYzSEhPUmF6THlFOVJQNE9QWUlHM29LWlVHTWtVZkxIdXJkNmdqSG1tR1pfY2JsOXdmNHhnTGpPX21faVExanZvZWJmRWIyaDI4TGdid3o3ZG8?oc=5",
+          "source": "pib.gov.in",
+          "published": "Tue, 10 Nov 2026 00:08:57 GMT"
+        },
+        {
           "title": "The Micro, Small and Medium Enterprises Development (Amendment) Bill, 2026 - pib.gov.in",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FZTBOb2xsNFIxaDFIei1YaU1ERnZwbW5pa3BDcDJhVnZmaEF3clJKVGFMcFJLYTJMeWtIb2RPclZNZXdLMGt0ajJPNTh5NS1wTS13bG12VU9rOUE3UmZhVG9oN0dPbHZ5ZHFJSVk0MVROeFVuUGtn?oc=5",
           "source": "pib.gov.in",
           "published": "Sun, 08 Nov 2026 12:50:25 GMT"
         },
         {
-          "title": "Small and Medium Enterprises Growth Fund - pib.gov.in",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeF9zb2g0VnJWR084My1lRkY4dWdTVEw5b3M3LUgtdW54V243WTh3UUNMRXJVOGJ6Ulo2b1ppdkNQWTFLNnR0UlNJNmFYQjRaUWhhbC1zaWRCc0Vzem9HMWNEUXJRa1NSUWJiX21Eb2txU0VxSE1QOVZfUUptbGFhckE0cXlGNTQ?oc=5",
-          "source": "pib.gov.in",
-          "published": "Sun, 08 Nov 2026 00:45:52 GMT"
-        },
-        {
           "title": "Insurance and the future of MSMEs | Hindustan Times - Hindustan Times",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeDhLdVJjSjQ4SVYzdGZMc2ZpdllJTHl5WjdVMUlYWkpYRmE3U0VTb2laQ3c0dXRRTnFxaGFHT2pOMmFZSEQyTm5iY20xWUhqZ3p1QnkxWnZoNTkwMHJxUzBuaDlTRFRudjY4R1ZtUk43bXloY0RDeXVWSk9yNzVWY011S3kyWjdyaG5PblBBZ1hQdXZrb2laSXIzQXNVWkV5ZmxfUkRCY9IBrAFBVV95cUxNRXR3cWEyQjF3MnlIc09NQzN0MkxJOTBGOE9rUzhRRngxYUpKdEtrSUEwR3UtcXl3WG1nejBmMG1aZHA4am82X3NRaUkzdFlPY3dpUHVNMUw5T2FteGFpcllCNFRmRXRmeC1WQjdCWGZRb3VoaHRRUXBlY3hwX1p5eEtCVjNURU9kZ2prU29KTkFFWFVoQ29oNEpmVk9uVzduV053WWo1R25WdHkz?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRXR3cWEyQjF3MnlIc09NQzN0MkxJOTBGOE9rUzhRRngxYUpKdEtrSUEwR3UtcXl3WG1nejBmMG1aZHA4am82X3NRaUkzdFlPY3dpUHVNMUw5T2FteGFpcllCNFRmRXRmeC1WQjdCWGZRb3VoaHRRUXBlY3hwX1p5eEtCVjNURU9kZ2prU29KTkFFWFVoQ29oNEpmVk9uVzduV053WWo1R25WdHkz0gGsAUFVX3lxTE1FdHdxYTJCMXcyeUhzT01DM3QyTEk5MEY4T2tTOFFGeDFhSkp0S2tJQTBHdS1xeXdYbWd6MGYwbVpkcDhqbzZfc1FpSTN0WU9jd2lQdU0xTDlPYW14YWlyWUI0VGZFdGZ4LVZCN0JYZlFvdWhodFFRcGVjeHBfWnl4S0JWM1RFT2RnamtTb0pOQUVYVWhDb2g0SmZWT25XN25XTndZajVHblZ0eTM?oc=5",
           "source": "Hindustan Times",
           "published": "Sun, 08 Nov 2026 14:53:04 GMT"
+        },
+        {
+          "title": "PM Modi hails SME Growth Fund as big boost for MSMEs, says ITLA will spur growth - DD News",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZmZQa1lXbnhTZWo5MnpIZ0ZBMVh0SDRfZW5Sa3l4aGg5YzlJWnlTb0ZvSEQ4THdRRDZtZWg0eW9XZWRfNmtZaEp4M0N2QXgyVXp1c1o4bUlaTS0zWUpBNDJheWJOUFpKUXp0Z1ZjeV9acnZ2ck9rRTY1Nl9TeGlzMExhbF9EMkRjQUFIZ1JmaHpBejcxWXhMYU53SGlCcm41dU12azlaVno?oc=5",
+          "source": "DD News",
+          "published": "Mon, 09 Nov 2026 02:51:47 GMT"
         },
         {
           "title": "No More Zeroes: Govt plans to extend ZED certification scheme to services sector MSMEs - The Economic Times",
           "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQOFRxdVBnZHppMmhpa19LX3hvRzZCTTV4aVJhZTd3eExrc3FDWlZLcFcyV2hRUktLM0doeERxWGhUQldUMjh5U2dRdlFLREpMVE02ZTVyZ0V6SFdNWkotQjhLMG1zOW80LTY1VlFDSlZUU1hfVzBrR1dPQTlkaEZkQmF2N0tzYVVHME9qSHlMekw1dGl6SWVUcXZIRkhsc1ZVYXZDNUFTVjJUckN4MWlvNWJiSzZCb01EekYzcTUyaDZrcmFoVDlZdTRfVnZQRnVZTjA5MnU3ZkZGZjRjUEhaNlNPS1VmLWlaYU1XeGtNZGPSAfYBQVVfeXFMUDBVOHFtVTJPVWUwTWpUZ21JQXlMZWtnbE5LRVZEZl8yZ2UxdV9pbTI2Y0pFS0NsWlZpSV9iZE9mNVdrUXp4MEdHUUFrMHk3YXAxSkp0UHppeklKb2VfbEVGdndXZTBIdXJHS09vY3pZQXdCUWd4OXMtTGxBOEdJYjZvbTZiS2pyeVVMMnF2cXl4RXJBYUx3dUtvbHhIX1luLTRHOXJPTU9VaFNFZDJUcGdqdngxMFJWOFRnZGlSRjlmRjJTNjdrSHIxUnVvcW01anhfaDFkZVlSWTBhdW1kQ19lb1U3UUdDdHlrMDJadnNmY2RmZ1JR?oc=5",
           "source": "The Economic Times",
           "published": "Mon, 09 Nov 2026 01:22:58 GMT"
-        },
-        {
-          "title": "Diwali 2026: India’s Festive Business Set to Cross ₹7 Lakh Crore - India Business Trade",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLXBhLXFUQTgyOTl1ZGVPODlmeElyb0pjSUhlLU5VR0ptUjBWSzhtZDN6VE1Ed0Fpdi1RcEFhdG5Pdmc4NVFBOFJxb2R2WGpCeHZNLTZMczk1NENWLTM5dDZuTTk2aW1RVDU5alNwTjJ6NGVGSjBycGVQVVNkVFItQTBFRDdua0tKSXNodG83TmlDbktLXzhKVk8zZUVWb0J4SkZJRmx6UQ?oc=5",
-          "source": "India Business Trade",
-          "published": "Sun, 08 Nov 2026 07:00:50 GMT"
         }
       ]
     },
@@ -181,34 +181,34 @@
       "sector": "Consumer trends & personal finance",
       "articles": [
         {
-          "title": "When wording changes what we find: The impact of inflation expectations on spending - CEPR",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbW1FUGVlMzRQMEdXSW14MG93cFVlQ216cHFFOTdERHhKMGtqOUlUVzZZdEpKandpN3FUeG5mamU5TzFSeW8yYk4xVjhsWU5kRVhRMEJmd2EwQWE3SDNwRjlHd0NSaHFKdm1RakoxdHFrS2JST1U2czgxRTF4Q284Rlp3UlYyeThMSy1NbjhlT2UzM0pCYjZzYUJJMzZqbjNVQURKTFBB?oc=5",
-          "source": "CEPR",
-          "published": "Sun, 08 Nov 2026 00:46:11 GMT"
+          "title": "What is CPI and the CPI inflation rate? - Fidelity Investments",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE16TVVIdkZBWVFKZk5uaF9hcXdWYnhMQUU1YVZkT0lSM1Y4Q1VqZUd5Ty1LWlNXbUh1RkV3OUQtWS1WRl82QVhnM204dGYwLUtiWVRFUFRMOTZXZ3hZOXREYlZ1YS1wRjMwd0hoZjRIMWJORXdiazhDcDZn?oc=5",
+          "source": "Fidelity Investments",
+          "published": "Mon, 09 Nov 2026 22:10:40 GMT"
         },
         {
-          "title": "Will US inflation data ease affordability concerns? - Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb1gxeFlicC03N0VwSW1fUFZpUlV0UDdCQ2Q2SkJoVGF2d2YzUEg1RDNHbWJTNDgzMTd0TURpVkRoRTl6UjZrd0NMbG5vZFh5VjRxXzU4bmVFdzl4Szl1RlNvdXpGTUpKMjZqYjdmbEFaNmtaNHZUTFdRR0pobFJzZ1Z4M2U?oc=5",
-          "source": "Financial Times",
-          "published": "Sun, 08 Nov 2026 16:20:06 GMT"
+          "title": "Fed’s Barkin Says Policy Direction Clear, But Needs Careful Pace - Yahoo Finance UK",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSTByLW5ITlhmd2N5bE1kOFFwQzJRS0lDaHFWME1sSFlYNkszcG1kdWQ4MTJXcUdudXRfRGRIaUFsMElzUVZUT1hvbnhlNlVVOXdlN0lScUI0WnZNYjZkb29DbENCZkVMUUptM3dQRHpGbWhZaFE1bENrdDBQR1U5ekN0RHpOTlBo?oc=5",
+          "source": "Yahoo Finance UK",
+          "published": "Mon, 09 Nov 2026 17:06:06 GMT"
         },
         {
-          "title": "Indonesia’s Annual Inflation Eased to 3.23% in October - Retail News Asia",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZTAzcUFObnptZ3JVMTI5SklBSEpmZXAtcF9yMjdWMTZsYVdTcXFhZkdEc2ZkRVJwb3IzMllYZUhSMktGNThBRjFsaGVpbFVtVHVLaGlEMjZic1ZyVTZkNXBLMERZOFhoblZhdXRfYWxyOUVpLTVDY0pDVTFXODFidTln?oc=5",
-          "source": "Retail News Asia",
-          "published": "Sun, 08 Nov 2026 19:00:57 GMT"
+          "title": "Festive Spending Hangover? How To Get Finances Back On Track After Diwali - NDTV",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaEtaUDhWNGJSWV8wQXE4Y2JkUGlMUWlKeEI5MDFzZ2dmU1VqYUlIcjFzRjZZcFFoYWhyQ2NWVG5IUUwyQTBmMmxDSUpKUko2T1ZraUhHb3dreFJqYmsyaFpyQzF0UDhFUU5JSG5GakIxRklGbUVwMkJsWnZUTHRDOUx1LUZ5eDV6cUJTY1IwTzVrbkxDWFlyQWc2cFV6NURzRmRuSnRqOEw4WGk4TnZZWTVuMEZROGFucVE4UlREWC1TLUnSAcsBQVVfeXFMTllRMmpDM0xqZFRrRXIzNHVTNm9yZ0swbndmdlllRnhOazNxQUJvS0hMYUlqSjVMWFB2TFBwTVBzMlZyYUV5SDlHTnhfQ09VRlpUak9VWWlHMExIZEtleFhISzFndVJSbVc4TVZreTl4TlZuZnl4WXBRSjU4R0hsTHotNUYwdUpaS2FsWloyNVdrNlV2eGNEQUtMZ192X2tqeEZHb2swUWoxN0JZMENyVUlLNFBLVm5RbmEyQVhNX01qN0dkQUJuQ2p3R3c?oc=5",
+          "source": "NDTV",
+          "published": "Mon, 09 Nov 2026 04:09:15 GMT"
         },
         {
-          "title": "Holiday spending might look a little different this year - The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd1c5am9JN0d6VHlNdVNEWkx2dXZFUVl6dmNGeks3cHJBdThsT3RKT29pTUJIUXBfc0J3X3dFTWhOUFpCdnczamNkanhPU014aHlkOFVjdUZxWHh1ODJmbXh0YVBFN0MzczRYS3piQ3BuUDZKYmlCcDZmd1dXQmF3Y2JTdklDbkhTeE9sdjlWYldiWExQWE92THNoczNmRW9fc2U3VDBxLTVPUQ?oc=5",
-          "source": "The Washington Post",
-          "published": "Sun, 08 Nov 2026 04:30:00 GMT"
+          "title": "New Federal Data Reveals How Retirees Today Spend Differently Than Earlier Generations - Investopedia",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORXRhVDY3cEpDa3ZFcEEtWGtLM29IdGpjQjhfOHJBTVVhSXhBcjFqNmg4ZGp1SW9ZUjhZTHVKaGU2Wm5Va0hRV0dGN2pKOHFPYlc1TkF2MFE3VnFTa2M5b2NITHdRSlJ2WjVYRTJYVTZpcmJfMTZiTHBhS2ZCWHBJWnlvQUVqdG44Y3RCQU40Yy1iQUwxcF9HdA?oc=5",
+          "source": "Investopedia",
+          "published": "Mon, 09 Nov 2026 12:45:00 GMT"
         },
         {
-          "title": "AI investment boom tests Fed's ability to balance growth and inflation - The Nation (Pakistan )",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMG1qR0tCSlRsdWc2U2Y4OHJKUjAwRk9VNi14ZEtIUHFqTFM3V0NlR25JcnRRam5OX3JPQmJMb0xHZ29sUkdpR1poemxkM2d3Qy1ld2F4WTE0b2dZZFNtVXM3a3FoanJwUERuQjh6UzBReUhHbThOYU43SXhfM0ZkbFFrU0hscjJibXBqc1N6QXRiZWNVQUtNOG9JLVl2cVo2bFYw?oc=5",
-          "source": "The Nation (Pakistan )",
-          "published": "Sun, 08 Nov 2026 12:27:51 GMT"
+          "title": "Watching Your Wallet: How rising costs are impacting homeownership goals - ABC30 Fresno",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOHZiSWV4MnkwOXh2bjZfNmt1WVR2Qk5iZ0xVekpPV3pTekw4WW5iUFZZZ3RKWEEydFhna0ZnVzJrMWtoY1FWQTc2eUtJVFctR05TUWJTbGpPel82MzZZbmFibW03VWpIU3lHRENkMWVUZUkyZHBKUjdBaWVhTjdwTDR2ZXlUczg4aWtWcTBuRjhuRDZZT2pJMXR6N3g3V1E30gGmAUFVX3lxTE9TSFUtcW1oZFk4cDZHUU43dHZfVTlwWVp0OS1MNDQyVmN4RG1ieGNnOUtqckJXQk5UTGRuMVN3QlFiUnpHLV9NN3Nub1J3emhVaUlyR3g0RU5mTTJ4dlZqWUhvRHA4dHVkMzVNTVE5QjRCbGhrZ0hLeENKdW1aTG84UHFLS1Uwemo3TTQ5OGVTNjlEaWp0eXk0NFZUelZ5bU9xUXcwOGc?oc=5",
+          "source": "ABC30 Fresno",
+          "published": "Tue, 10 Nov 2026 00:02:19 GMT"
         }
       ]
     },
@@ -216,34 +216,34 @@
       "sector": "Healthcare & biotechnology",
       "articles": [
         {
-          "title": "Advanced facilities at AIIMS Jammu to strengthen specialised healthcare in J&K: Dr Jitendra singh - Greater Kashmir",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcEpVZ2JkbWlhLVJ2TFZydDlmT2czd3l1Z3NNM0dvUTFodmdudnpOVXJjM0ZRZ0FkR3l3ZkdiVTRhXzYyb2VnMXc2UGhOaHRqMkJvcVQ1eHN4LTBKWVAxODNZam9lenN0RmNTMXk0N3pvV0RXaGRZcDRnaTI5RmluUG1QSF9kbkR3ZU1ua3Q1VUJSWldqQnFFMVFjMXBoTkI3bGdiYnNrSlNseGNuS3RUSmRTaU96VWE3VDlhdjROcGlRWk92cEROTnpwM2RONGxGeDlEdEZtNmYydzNvYnfSAd4BQVVfeXFMT3BKVWdiZG1pYS1SdkxWcnQ5Zk9nM3d5dWdzTTNHb1ExaHZnbnZ6TlVyYzNGUWdBZEd5d2ZHYlU0YV82Mm9lZzF3NlBoTmh0ajJCb3FUNXhzeC0wSllQMTgzWWpvZXpzdEZjUzF5NDd6b1dEV2hkWXA0Z2kyOUZpblBtUEhfZG5Ed2VNbmt0NVVCUlpXakJxRTFRYzFwaE5CN2xnYmJza0pTbHhjbkt0VEpkU2lPelVhN1Q5YXY0TnBpUVpPdnBETk56cDNkTjRsRng5RHRGbTZmMnczb2J3?oc=5",
-          "source": "Greater Kashmir",
-          "published": "Sun, 08 Nov 2026 01:46:50 GMT"
+          "title": "27 Top Health Accelerators You Should Know - Forbes",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWmlzVV9uckNManhnZ1dzU0NkTGg3YzdsUFlNNVZZZURJU0tMeTdGQ0FnZDNBb1BTWW9YTTdBR0o0ajhtX3p5Rk5RQ0dWUHZkOUJDZFJUZ1Rsc2haSE10b0ZkV2Jnamw0RS1jRFcwVkdKVHhNemFkWTdPRGotSnltNDVVYUlLcmEwMzZyTXFlUC1VcU1DQ0RpazEwcjN4dw?oc=5",
+          "source": "Forbes",
+          "published": "Mon, 09 Nov 2026 15:57:45 GMT"
         },
         {
-          "title": "Roanoke health sciences expansion creates new opportunities for Virginia Tech - Collegiate Times",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ2tnYkdBZXBtbk13TTFMYldZdWpvU2YxY0F0NDBaLWRBczgta29EaWZsVVlpclc1cUR0SDR2djRlaXNVVjBvZnltM2R1T3B5d3pCdzdLY016ZWxicWJfU0RlVk5pZFlYaS1KMmpYb1daMThOODNWbC1EcGVieU1GZkRDUWZ1MWVEc1hpektGRm1KQWFZTWRxY2F4VDFOdGhNSFZOSDVlQ3l5U2d1bkUzT01FalBTQkNaMWp3MEZESE5ubjBK?oc=5",
-          "source": "Collegiate Times",
-          "published": "Sun, 08 Nov 2026 19:59:34 GMT"
+          "title": "China is emerging as a key testing ground for healthcare innovations - Nikkei Asia",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSmJEcFRXQ2NXY0I5SEtrbUc2Z0o4M0FPbmxidzZRbjlGMjR0NUJQcnZZT0pIeUpIbG9nNC1ETFg1Y0ZKOW0zbXJEcnBaeTY1TzZzUV9rZlZFUnFrSllSSWVScXFPOEN4ZFEtWlhSc05STlpORVdLaEROc2w5ekNsUGhWdDB4MERDV0d3RUNwNG9JOFNzb1dhTUVUNmNMeTlFeWc?oc=5",
+          "source": "Nikkei Asia",
+          "published": "Mon, 09 Nov 2026 20:05:00 GMT"
         },
         {
-          "title": "English Releases - pib.gov.in",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBodTdYeXF0MXhfb25TclN6Z0NDYlJHUFh0RnpndktMZDEyQ2VqTFMya25UaVpNTDgtSlkwU1dLNGltRFZ0LW80Xzh1YjhNSXN4d0NUNXhhVFVZZUcxb3RYVlJla3l5SlpjWFA5OHNSMno?oc=5",
-          "source": "pib.gov.in",
-          "published": "Sat, 07 Nov 2026 23:09:43 GMT"
+          "title": "Europe Needs Pharmaceutical Innovation, Not Higher Prices Without Conditions - Social Europe",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZy1UbHhtOWRiUDF0cnBzdk1XNnhUNVl2WFRnR3FuNEU4eElKYkNuTkxqQ2gxMnA3SXBLVUZmSTBGSHliWHhqZHBoQ1NIQWJ2dERGQXM3d081VXdRUk9Uc0JGdmRoQlJxS1pBS3Bhb185bFNQaElYTEotMDVSdmd1ZjZsQms5Zk53TXN3bWk3ZE5vRGdsOGdxM29aMXVfWVJCWERtYy1B?oc=5",
+          "source": "Social Europe",
+          "published": "Mon, 09 Nov 2026 06:00:00 GMT"
         },
         {
-          "title": "J&K only UT to get 2 AIIMS with PM’s intervention: Dr Jitendra - Daily Excelsior",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLU50b3BoSFNiZTl0T0pNeHQ1MGdHb3RYenlzM0dyN0c5a2xJRFBwNHRPcHFMM3NGdzJmRkR3a0JhY2FVaVVqb3dIV3pJZTV0b0xiSnpDczk3RmUyVmNWSmZkZi1MM3lpSWJJV0ZITUltZzRkVmVVbzBGRl9NSnJTUUlPTWFYeGtkeDEwRGd6MDl3TUF0cFHSAZoBQVVfeXFMTXViZHE4eHp5Y1NQbnBQUnJKV1pfLXJCTngtYmdPV2gzYzFGaVJIVWFNNU5SRUhBdmFiZmUybUZidzlja2dOVVdqSkk5dlh6aWpmS2QyR3ZvUFNaaWE1QjZ6YlgtekNKQTlWb1c3Z0xPbmVVZ3JwaUtDZC1ncmR1dkZGeVFIRHVHajZyZjNrZjhRZm1DSnF6VUtLdw?oc=5",
-          "source": "Daily Excelsior",
-          "published": "Sat, 07 Nov 2026 22:39:08 GMT"
+          "title": "College of Medicine at Princess Nourah bint Abdulrahman University Signs Memorandum of Understanding with Cellenkos, Inc. to Advance Clinical Trials and Cell and Gene Therapies - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbTBTZjRfdVZqWnNXZjdSZnVTWTRkTnVXbXB0UjR4anpHMUw2bXpWeTBKVUFDdDhiLUJoNEdlSG5VMXFRR2RGRENMUGZRVFlZQTEyUzhUWXZ1VmNRc2EwQlNxc2djNDBwWlRoQjVMaVdyUkhrUy1HYmlScUpwNnNoTnBmaktra09XakVCVDMxWENxeEFOTU44SnpQblZKQmM?oc=5",
+          "source": "Yahoo Finance",
+          "published": "Mon, 09 Nov 2026 10:00:00 GMT"
         },
         {
-          "title": "Innovative Medicines Initiative (IMI) Guide - CASRAI",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zWjE5dHhvWFlmN2VqVkdDck5admxfcGE2TXpKVGFtODRYb09JV3VBWXJJUDlzR25uanlscXVmV1dxaDJISldMWF90bEMzU21TVF9WQmNoSHV3NFFiNFFkcWpKTUtvUmRZ?oc=5",
-          "source": "CASRAI",
-          "published": "Sun, 08 Nov 2026 02:06:22 GMT"
+          "title": "Gene therapy’s long-debated cancer risk materializes - STAT",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMlJwTGtDNzFvRldlQ2xFQ1VwZE8tUUZiWHhMMlF4d2ZLNlBaOUtiek43eVNwMHY2WTZZZmtILXpXbDFUUXpFR1V2ektxVzBRYXNnNjNhNGJ2Tkc3UVNrdUF3blJmcVEyT2tMazl4a3R6azhUOVoySWJWZEtBUGJVTFJXeWVaR1pvT0xBa3dmcXVMaUdPOTVPeS1JcDdaWjB4WEE?oc=5",
+          "source": "STAT",
+          "published": "Mon, 09 Nov 2026 14:39:35 GMT"
         }
       ]
     },
@@ -254,31 +254,31 @@
           "title": "COP31 to take place 9-20 November 2026 in Antalya, Türkiye - Welcome to the United Nations",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JaHNjckVTV3k3dlE2YnRMcEVvQW5VVFNuNjlvUEt1a3h4WkowRlVyaEUxeU9sT2FNYmN5WUFUc3JkaUN5UHNMSFZxY21pcFlkSkxJ?oc=5",
           "source": "Welcome to the United Nations",
-          "published": "Sun, 08 Nov 2026 22:16:22 GMT"
+          "published": "Mon, 09 Nov 2026 22:29:06 GMT"
         },
         {
-          "title": "COP31 Opens in Turkey: Clean Energy, Climate Finance and U.S. Withdrawal Shape Antalya Summit - Eurasia Business News",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeVRiT3dVQXRXcHF3b0V6YjM5NFlISjJZdV8wZDRhUHBlQ0pOeEExak9ZeXNTWDN5RVRMM2pRMGc1Q0J4OGxVSVpUSXdUNzlqeDJHMlFuY2FhRDdubVIxVEFqYVkxa1dFeFNZdnB0anR2WWxLem1VZ3BOZDNFZ1Y5d1E0UlRrNXRYQ0ZIUElWbHZlX01XaGo2dThEQ3lOUzdLNGV5eUpGSkpPQ1Fhb014MlZOVGxYaUtMUUp5VEg1ZkpSdDBLMnhNdjV4aW92SE0?oc=5",
-          "source": "Eurasia Business News",
-          "published": "Sun, 08 Nov 2026 22:26:17 GMT"
+          "title": "Outdated power grids a major hurdle in renewable energy transition - PBS",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcjJ5UjUyV3hNbndkb0doUm55SXViQjRRWWJkMWNRYkVqOGIzV1RzMkwzOXkwNmozeno0dy1UdEFmaERoOURtWHFGbzE3WWNmSGMzZ3c3U3hMcWhndkdHMHBRdUhrVTVoWWw2dHJ3NVhWck1kcFV6ZnNWc05MRjk3NjdsUXo5Z2RsblZiZWVvaF9OSTlGdmluTE5HZGw5WlB4SWFOSldDSWdOcDDSAasBQVVfeXFMTnIyeVI1Mld4TW53ZG9HaFJueUl1YkI0UVliZDFjUWJFajhiM1dUczJMMzl5MDZqM3p6NHctVHRBZmhEaDlEbVhxRm8xN1ljZkhjM2d3N1N4THFoZ3ZHRzBwUXVIa1U1aFlsNnRydzVYVnJNZHBVemZzVnNOTEY5NzY3bFF6OWdkbG5WYmVlb2hfTkk5RnZpbkxOR2RsOVpQeElhTkpXQ0lnTnAw?oc=5",
+          "source": "PBS",
+          "published": "Mon, 09 Nov 2026 18:31:27 GMT"
         },
         {
-          "title": "COP31: Climate Justice Campaigners Demand Corporate Accountability and Action on Fossil Fuels - Fair Play Talks",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTC1XbTNweDVyUGR4UlVERGwtckNWRlZmNjBiVFpaczZjUzJGNkNOdkFQUVRFWERQbmdGSTlTWEMwa3dodXc3QVN4MWUwMnpib21pSGYxX0U1QXhZRldZVXRwRXVVWEFJcGNnTWo5VkVsR1V5aG1VZmpRMUJNLXhYT182dUJVSllpUU1iTGhOU3VMNkF3YVFsMEN0aGUwVWlSNFdVWklVaGVONnVPdmwwN0E0MVJUcW5FYk5vQUxrRUkwWXhlMFVGZW1Ed29MYlE?oc=5",
-          "source": "Fair Play Talks",
-          "published": "Mon, 09 Nov 2026 00:05:01 GMT"
+          "title": "COP31 Week 1: What’s on the Energy Agenda in Antalya? - Energy Digital Magazine",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQamRLWE8wY3E2d2dneGZxcDJOM01VWmE1WTZPVkx0ZGJKV21xT21UVk9VZWhJVzRtWEMzcFJmUkpjLUJCMXhuYmhJYmw2T2lSZWVETE9UVGgyVjktWnZmN01wZ1gxSVZlTV9GUG5tallZSGNITXlIN2FIM3pJSFdtOC1NY3lZbEFf?oc=5",
+          "source": "Energy Digital Magazine",
+          "published": "Mon, 09 Nov 2026 15:20:30 GMT"
         },
         {
-          "title": "COP31 In Türkiye: Climate Finance, Fossil Fuels, And Energy Transition Top Agenda As Summit Kicks Off Tomorrow - Forbes Middle East",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNnY3aDFRVFdlcnRHcDlnODZjMERZSUw1am5MM3lCa2N1VGV4TS1QUXhtZVlkOHNJT25KcXp4MXdRSERrd2lDRkxuSFZyMkg4U2NuRGVYdEZidTNaV2ktQ1I1b0NYMEFwWm5hUkk3WklkQkpGdkVqUkxYWEwtbTRqbHJpUlJWQkxBeFdVY1dYZVJXWHNMaXdmcF9talppTW1FQ1pGMG16dnBDMk14M2xMakstUU5RZkd2NXA2SEpQOS1Wc3YtWHlRUzZmZExRSFhuMjFqbW5OUXZPWGZwSV9ObGdleEVESTdZTTItQ2s0Smh6a1Zk?oc=5",
-          "source": "Forbes Middle East",
-          "published": "Sun, 08 Nov 2026 11:54:44 GMT"
+          "title": "China Reports Major Progress in Green Transition and Climate Action - Alwihda Info",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOejVqd0tiU2g1UE50S1hyS2VZejlTcFU4S2FMaE5xTXZOVFZaaXc1X0xmVmE0SFNSS3hnR1pidzVoV3hvc1Fac3R4WDcwbDNTQko1TTBRVVBkNFhJT1Z0YkdIb1lOdThCZFBFUW9BekxkNDh4TUJ6NlhtSWkwa05ncVhURjlmb3VmaEhqOGQ3SE1jS1VPZ2h5MlVZY1Y?oc=5",
+          "source": "Alwihda Info",
+          "published": "Mon, 09 Nov 2026 22:01:23 GMT"
         },
         {
-          "title": "Strategies for supply chain risks in energy transition - The Korea Times",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNlRxbndSTFhBb3B5MjN5MGh1WWpHaHQxN05FeVpwMnJKMzdhZjNBelBsSl9iZGZuM1ZrU1I4c0V4eXBTSXYzRGRBclZhVXNyVjctSm8zXzFLeWVwOURnTjZiVm1yMk1SS3IxcEZxbWw0RTFBTnExTFR6c0JWUUJRbEVSYkQyaFBrLU9IZVRocU9Od19pTnlnTEZ1QzczQXZXU1ZDcl9qMNIBpwFBVV95cUxNNlRxbndSTFhBb3B5MjN5MGh1WWpHaHQxN05FeVpwMnJKMzdhZjNBelBsSl9iZGZuM1ZrU1I4c0V4eXBTSXYzRGRBclZhVXNyVjctSm8zXzFLeWVwOURnTjZiVm1yMk1SS3IxcEZxbWw0RTFBTnExTFR6c0JWUUJRbEVSYkQyaFBrLU9IZVRocU9Od19pTnlnTEZ1QzczQXZXU1ZDcl9qMA?oc=5",
-          "source": "The Korea Times",
-          "published": "Mon, 09 Nov 2026 00:00:04 GMT"
+          "title": "Turkey pushes for transition at COP31 as coal burns - DW.com",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWHlDT25Fak5xdFc5UjVlWHhtcHFVREktOEJGM09NXzlNUUhaMUloX25NMFpTM0s1WWdzTGF2NWY2NXZ6Z2dROW5RakhMbHozX2ROM2JvWnQzZVJld1pIN1ROeEtxVG5kSm5oUVprbGxzZTNxZjVGaFllZHUzYVVjUFVieUZCcDVWLXhTY9IBjAFBVV95cUxQdlhwbG1Qd1REanRKeGgxVFJUZG5NeDBQZExLeTRIOEFOdF80ZUsteFRkRjE5OEhhQzlMV2c4TktJanRXa1YyREFFbzJ0VUdELTJXWVJFMEdJemZjcTdlUkRMekstSTZSVGJqNkdyQjNsNjJkWkxadXRpVHJLM0VqZmdOY2VKYmNSMll0TQ?oc=5",
+          "source": "DW.com",
+          "published": "Mon, 09 Nov 2026 16:48:56 GMT"
         }
       ]
     },
@@ -286,34 +286,34 @@
       "sector": "Agriculture & food industry",
       "articles": [
         {
+          "title": "Secretary DARE Calls for Reimagining Agricultural Higher Education Through Global Partnerships - Indian Council Of Agricultural Research",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSnVOWXRQdl95ZXozdFBBSGs3Xy1jVXZPWnRGQmlIc2lpY2xxUU1FLW45dXNEREY1c25PUll0SE10UEhnQm5CTFpfeEpmRVB1UGcxd2NJbzNfdTVrNkhXckY0N2Y1ckZmUmJXcnZvZ2RiUkhjQUpQM2hrWnozUlBXVjA4eUR2b3JfTjVOSWpUd1Nsa25PaE45M1BPeXlTUlZ1X1I0bERQamY0STZRTzRVdmVONA?oc=5",
+          "source": "Indian Council Of Agricultural Research",
+          "published": "Mon, 09 Nov 2026 12:14:10 GMT"
+        },
+        {
           "title": "The New Era of Indian Agriculture and Allied Sectors - www.pib.gov.in",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSUZxUkRCX05waVZTZThYT1g1a2h3NXFOTGlfSFFTS0lTTVBDcTl5eXhQZW03aHNzY0E2R0U1VWs3VXNzN2hYRkRpdTJWeGx6MXB0VEpPMGI2dkxzdmg5bmJnSFZhdDRKODlmLW1hb0wzbDh2N3lQQzNwaXRKWXhBbmlWY09ia2FJRXJvTW1Wd2NSMjhkcnYxTEhn?oc=5",
           "source": "www.pib.gov.in",
           "published": "Sun, 08 Nov 2026 20:40:22 GMT"
         },
         {
-          "title": "Beneath Our Fields: How microbial innovation can transform agriculture and food security in Northeast India - Organiser",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPS2tyWkJDVUh4bjZuTFJpNklpaDFYRWlQSGFfWXo4MDFWNkg3NDdtTGxVRTRlQlVNOVZWSnBmMkFhYTFrZnM1WVp3XzNYUmsxX0hMMk0wOEMxRDBQejFpUG9yeDBfWXdpUkNqaG5EaWdubzlEN01UQjJQMFJXMjJIX3JxZVFNLW85MVRET25wUXRVZDVPbFRkTzhxbG9pOGVHYVdaQ2xheHc0d1FrODVhaFI3OHhFNlVTUkZpUG51eXJkUGk1bUVXU29jem9hWXR0U05JMkVrdTdBbGkzUDJCYVJacHlUZzhzX0xZ0gHwAUFVX3lxTE1rWGY0ZHBKR1FsQ0xOX3lVQW1IMlZob3l6cTFqS3dvb2JxcHZPdVpjcUV4blJ4Vnk5UHJ6SDZFQTVNV3BYUTVOYV9GRFRGZ09fakdCbnItQ2F4cWhCT2xtZC0tcG9wTVlQekxhV1NzQUwwVGM0LVpwcHM3QTlsYXRaWS1hWjBhYTZHcVR5VE40a05ETVY3cmFsektRQ19INFBDR1NWVUV6alpkcTVVNUd5Vmx4aFVMWEJSd3pHdTFVQXhxOHlQaW5QUWZ6cVMtYlVUWGdWNS1EejRIc19xV1N0bXBJWFEtQ2E0NGdKSUNmeA?oc=5",
-          "source": "Organiser",
-          "published": "Sun, 08 Nov 2026 04:35:10 GMT"
+          "title": "From Traditional Fields to Thriving Herbal Farms: How Farmers in Dehradun Unlocked the Potential of Herbal Cultivation | ICAR - Indian Council Of Agricultural Research",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOam5GQVd4LVpmSUVtVmV4ZWJIUWUwdS0xTVQxc3RRZlBXSHEzdk9NVl8xV0Vaa3hrdzUtNlp6OUFjNTI0R3pjOHpLcndmOTdYekk5WW1lWkpBSEg2ZENJdjVCejQ5SmVJcjBqVzJqSzRXMEhOR2M0NlJBbFUzdC1uaDBNOUY4LVZxS0pHT3pSTERfcTNOcFY5VnVaU3JYTWZFbG5ab2c3V09LRC16RHdUbFBBdzRhN3IzamJGdlgwMA?oc=5",
+          "source": "Indian Council Of Agricultural Research",
+          "published": "Mon, 09 Nov 2026 12:14:10 GMT"
         },
         {
-          "title": "Ontario Celebrates Agricultural Excellence - ontario.ca",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOelAya1E1TGh2elIyUDcyTk5YaFdXSWE5Tko1Tl8tSTJEMVNWRWV6NGJaOXFkWG55ZS1KOENkbFc5aXg3azdGWkdVeEtMbXJIQ1MyUEpUaXNiak5UaGQtMEI5VEY0U1lqNjc5X1dHaVRhQkxMOTFaVGZ6OUdYQ3lkUkxhdW9vSGFaV28tbVVB?oc=5",
-          "source": "ontario.ca",
-          "published": "Sun, 08 Nov 2026 06:08:26 GMT"
+          "title": "Stronger Farms, Safer Food: Protecting Ontario’s Food Future One Solution at a Time - U of G News",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR3N4Z0Z5NHhDaFRZRVVZVEVsRXozTjh1R29vTkhUYnFab2hiRGhTSGRfN0ZnN0daVEgyZnItSEJEeUVzbjc2SVRDZFRtZTNVM0JJNGZZVWlWU2xrR2JXTG9DeWE3VEJGTHE1UkwxRi10ZjFvR3VmY3B4ck9IbGZOOHVfb0YwTEJaZ1JTYm5yYkx6dEpxQ3Y5Q0xTRkduSjNqcW1mdkQ4MXItVmtrLWVTMmZ5OGo?oc=5",
+          "source": "U of G News",
+          "published": "Mon, 09 Nov 2026 14:05:58 GMT"
         },
         {
-          "title": "Billionaire couple Lynda and Stewart Resnick pledged $50 million to UC Davis in 2022; their 34,000-square - The Times of India",
-          "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPUk44VC1kcFIyWDltbjJTVWdwM09XZjF6cFEycXRVdlFjRU0yUmFxdnFkYml3TW9hUWVqMDBWQWVlZzduYk02aC1QMGVMQlQ0LVV1UGZKNkkwNnlrMVIxOXUtWmU5ZFFkMjkzaDFJYmNpTjkyV1hmZU5zdngwdDRrdmI5QlNIVjhFZ2FZamVvWkUxRlpBRE5BQzE0bXJZQzJlRU9ab0h1cVNXODdiamFZZHNoRGRnQ3NtNnV0RmxCLTJlUGljb0RmTC1hemZQYURQd3Q4RjhFeDRQV3haNkNpNm1JdjhXUmo1WDRqUGsyQ3NVUk1SZDk5R1VaTFJZcUYzbEFHQnZ4RldSZWpWbTloVlYxWHhhX3pybmtqU1N6MjR1UnliZDRObkE1QllmS3lVX0N6ZjBGTnI3VnBNQUw5U2tqckZudGV4dWfSAc8CQVVfeXFMTUN2VUMzM2dCOTk4NkhsVDdIbUZkXzEwNk1QajB4N2xoeGhlVEpTTUgwTDI0a29nWmNnbm9WOEd4OUJYOG5OV1pzeVBEUVZMdU92VGVLLVVSZTZIc1FTVlUxN1pCdjU1eWJkZkZjSVlNNUYxMFZJWWt3Mzl6ZUU4d3g0dFZidFIybGVuY09QbHcwNmpKRkNLZnpfWF9hdkxvS0JXQ050NnBGX1VaRWdWTXg2M0pZYUg1SzNwcElNR21NRlc0V2JpdHV2WkpiaGIzamkwNkh1NW1rejlXNzZOT1c0dEQyR1l4SW5ZV2ItdTJLNE9Pc0o0M2RnUEh1ZkRLVVhCRkNGczFvVWJ2NWpNYVJ4TGpsYktLNXBQdkhndDVQY2d3MnpqWVVSam1aWGM4VGNFR1puYUZmczh6cEhXc2IzNWRDUmZnaGZBdlFSUGM?oc=5",
-          "source": "The Times of India",
-          "published": "Sun, 08 Nov 2026 21:30:00 GMT"
-        },
-        {
-          "title": "Princess Anne praises SA’s agricultural industry in whistle-stop visit to Cape - Daily Maverick",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb0syRnJSZWtOT0pRdHlUeVltakdhNmdhcXVtUzlQYk1YN1VtQ2Nlc3RsanlHYUU2WUQyVlJFNEM1SUhmM2hKekppNWRmaEk5aVZGTGpPc29CSTM4ZmtKQ0RpZGlSVDJWbDJtVThORVIxa1RpQm94MU9kMHlGYmdQRkRLSXVrYVVMUTdiTTdIVmRLekJXbEdzU3l0OFUxamE3blQzQnREeE42NjVaMmNmS0pTN3pDeWpaTi1TcTFWVmUxTWZ0RlhOQg?oc=5",
-          "source": "Daily Maverick",
-          "published": "Sun, 08 Nov 2026 20:42:03 GMT"
+          "title": "Ontario Celebrates Farmers and Ag Innovators Making a Difference - Farms.com",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZHZmUUZUbTZxekJpQVJmbWZSbGlyMTRxd0k0S2pHemlsNXAyZWlDRjY5dGw2RV9EWjAzWjZRWFhLRDlNTDhyMnc3c1RuT0k1VVdkVkw2UUhWU1h6WF9MMi16ajVzNzIwV2x5VkMtYWtXc1F6cGFiWkY4TFB1ZlptRlBqandfUjVOS2JscmdJQ1ROa3ZJRjh1VW9FRzRhOENGZm5FVXF6SFpobmdXdmVPdXl3TFNpQnZiVXpkbklDZmFDWENITTM5bkZWZw?oc=5",
+          "source": "Farms.com",
+          "published": "Mon, 09 Nov 2026 15:38:46 GMT"
         }
       ]
     }
